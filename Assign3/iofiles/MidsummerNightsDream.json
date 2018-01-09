@@ -1,0 +1,3066 @@
+{
+  "title": "Midsummer Night\u0027s Dream",
+  "year": "1595",
+  "acts": [
+    "Act1",
+    "Act2",
+    "Act3",
+    "Act4",
+    "Act5"
+  ],
+  "Act1": {
+    "Scene1": {
+      "location": "Athens. The palace of THESEUS.",
+      "paragraphs": [
+        {
+          "charID": "Theseus",
+          "text": "Now, fair Hippolyta, our nuptial hour\n[p]Draws on apace; four happy days bring in\n[p]Another moon: but, O, methinks, how slow\n[p]This old moon wanes! she lingers my desires,\n[p]Like to a step-dame or a dowager\n[p]Long withering out a young man revenue.\n",
+          "paragraphNum": 2
+        },
+        {
+          "charID": "Hippolyta",
+          "text": "Four days will quickly steep themselves in night;\n[p]Four nights will quickly dream away the time;\n[p]And then the moon, like to a silver bow\n[p]New-bent in heaven, shall behold the night\n[p]Of our solemnities.\n",
+          "paragraphNum": 8
+        },
+        {
+          "charID": "Theseus",
+          "text": "Go, Philostrate,\n[p]Stir up the Athenian youth to merriments;\n[p]Awake the pert and nimble spirit of mirth;\n[p]Turn melancholy forth to funerals;\n[p]The pale companion is not for our pomp.\n[p][Exit PHILOSTRATE]\n[p]Hippolyta, I woo\u0027d thee with my sword,\n[p]And won thy love, doing thee injuries;\n[p]But I will wed thee in another key,\n[p]With pomp, with triumph and with revelling.\n",
+          "paragraphNum": 13
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter EGEUS, HERMIA, LYSANDER, and DEMETRIUS]\n",
+          "paragraphNum": 23
+        },
+        {
+          "charID": "Egeus",
+          "text": "Happy be Theseus, our renowned duke!\n",
+          "paragraphNum": 24
+        },
+        {
+          "charID": "Theseus",
+          "text": "Thanks, good Egeus: what\u0027s the news with thee?\n",
+          "paragraphNum": 25
+        },
+        {
+          "charID": "Egeus",
+          "text": "Full of vexation come I, with complaint\n[p]Against my child, my daughter Hermia.\n[p]Stand forth, Demetrius. My noble lord,\n[p]This man hath my consent to marry her.\n[p]Stand forth, Lysander: and my gracious duke,\n[p]This man hath bewitch\u0027d the bosom of my child;\n[p]Thou, thou, Lysander, thou hast given her rhymes,\n[p]And interchanged love-tokens with my child:\n[p]Thou hast by moonlight at her window sung,\n[p]With feigning voice verses of feigning love,\n[p]And stolen the impression of her fantasy\n[p]With bracelets of thy hair, rings, gawds, conceits,\n[p]Knacks, trifles, nosegays, sweetmeats, messengers\n[p]Of strong prevailment in unharden\u0027d youth:\n[p]With cunning hast thou filch\u0027d my daughter\u0027s heart,\n[p]Turn\u0027d her obedience, which is due to me,\n[p]To stubborn harshness: and, my gracious duke,\n[p]Be it so she; will not here before your grace\n[p]Consent to marry with Demetrius,\n[p]I beg the ancient privilege of Athens,\n[p]As she is mine, I may dispose of her:\n[p]Which shall be either to this gentleman\n[p]Or to her death, according to our law\n[p]Immediately provided in that case.\n",
+          "paragraphNum": 26
+        },
+        {
+          "charID": "Theseus",
+          "text": "What say you, Hermia? be advised fair maid:\n[p]To you your father should be as a god;\n[p]One that composed your beauties, yea, and one\n[p]To whom you are but as a form in wax\n[p]By him imprinted and within his power\n[p]To leave the figure or disfigure it.\n[p]Demetrius is a worthy gentleman.\n",
+          "paragraphNum": 50
+        },
+        {
+          "charID": "Hermia",
+          "text": "So is Lysander.\n",
+          "paragraphNum": 57
+        },
+        {
+          "charID": "Theseus",
+          "text": "In himself he is;\n[p]But in this kind, wanting your father\u0027s voice,\n[p]The other must be held the worthier.\n",
+          "paragraphNum": 58
+        },
+        {
+          "charID": "Hermia",
+          "text": "I would my father look\u0027d but with my eyes.\n",
+          "paragraphNum": 61
+        },
+        {
+          "charID": "Theseus",
+          "text": "Rather your eyes must with his judgment look.\n",
+          "paragraphNum": 62
+        },
+        {
+          "charID": "Hermia",
+          "text": "I do entreat your grace to pardon me.\n[p]I know not by what power I am made bold,\n[p]Nor how it may concern my modesty,\n[p]In such a presence here to plead my thoughts;\n[p]But I beseech your grace that I may know\n[p]The worst that may befall me in this case,\n[p]If I refuse to wed Demetrius.\n",
+          "paragraphNum": 63
+        },
+        {
+          "charID": "Theseus",
+          "text": "Either to die the death or to abjure\n[p]For ever the society of men.\n[p]Therefore, fair Hermia, question your desires;\n[p]Know of your youth, examine well your blood,\n[p]Whether, if you yield not to your father\u0027s choice,\n[p]You can endure the livery of a nun,\n[p]For aye to be in shady cloister mew\u0027d,\n[p]To live a barren sister all your life,\n[p]Chanting faint hymns to the cold fruitless moon.\n[p]Thrice-blessed they that master so their blood,\n[p]To undergo such maiden pilgrimage;\n[p]But earthlier happy is the rose distill\u0027d,\n[p]Than that which withering on the virgin thorn\n[p]Grows, lives and dies in single blessedness.\n",
+          "paragraphNum": 70
+        },
+        {
+          "charID": "Hermia",
+          "text": "So will I grow, so live, so die, my lord,\n[p]Ere I will my virgin patent up\n[p]Unto his lordship, whose unwished yoke\n[p]My soul consents not to give sovereignty.\n",
+          "paragraphNum": 84
+        },
+        {
+          "charID": "Theseus",
+          "text": "Take time to pause; and, by the nest new moon--\n[p]The sealing-day betwixt my love and me,\n[p]For everlasting bond of fellowship--\n[p]Upon that day either prepare to die\n[p]For disobedience to your father\u0027s will,\n[p]Or else to wed Demetrius, as he would;\n[p]Or on Diana\u0027s altar to protest\n[p]For aye austerity and single life.\n",
+          "paragraphNum": 88
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "Relent, sweet Hermia: and, Lysander, yield\n[p]Thy crazed title to my certain right.\n",
+          "paragraphNum": 96
+        },
+        {
+          "charID": "Lysander",
+          "text": "You have her father\u0027s love, Demetrius;\n[p]Let me have Hermia\u0027s: do you marry him.\n",
+          "paragraphNum": 98
+        },
+        {
+          "charID": "Egeus",
+          "text": "Scornful Lysander! true, he hath my love,\n[p]And what is mine my love shall render him.\n[p]And she is mine, and all my right of her\n[p]I do estate unto Demetrius.\n",
+          "paragraphNum": 100
+        },
+        {
+          "charID": "Lysander",
+          "text": "I am, my lord, as well derived as he,\n[p]As well possess\u0027d; my love is more than his;\n[p]My fortunes every way as fairly rank\u0027d,\n[p]If not with vantage, as Demetrius\u0027;\n[p]And, which is more than all these boasts can be,\n[p]I am beloved of beauteous Hermia:\n[p]Why should not I then prosecute my right?\n[p]Demetrius, I\u0027ll avouch it to his head,\n[p]Made love to Nedar\u0027s daughter, Helena,\n[p]And won her soul; and she, sweet lady, dotes,\n[p]Devoutly dotes, dotes in idolatry,\n[p]Upon this spotted and inconstant man.\n",
+          "paragraphNum": 104
+        },
+        {
+          "charID": "Theseus",
+          "text": "I must confess that I have heard so much,\n[p]And with Demetrius thought to have spoke thereof;\n[p]But, being over-full of self-affairs,\n[p]My mind did lose it. But, Demetrius, come;\n[p]And come, Egeus; you shall go with me,\n[p]I have some private schooling for you both.\n[p]For you, fair Hermia, look you arm yourself\n[p]To fit your fancies to your father\u0027s will;\n[p]Or else the law of Athens yields you up--\n[p]Which by no means we may extenuate--\n[p]To death, or to a vow of single life.\n[p]Come, my Hippolyta: what cheer, my love?\n[p]Demetrius and Egeus, go along:\n[p]I must employ you in some business\n[p]Against our nuptial and confer with you\n[p]Of something nearly that concerns yourselves.\n",
+          "paragraphNum": 116
+        },
+        {
+          "charID": "Egeus",
+          "text": "With duty and desire we follow you.\n",
+          "paragraphNum": 132
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exeunt all but LYSANDER and HERMIA]\n",
+          "paragraphNum": 133
+        },
+        {
+          "charID": "Lysander",
+          "text": "How now, my love! why is your cheek so pale?\n[p]How chance the roses there do fade so fast?\n",
+          "paragraphNum": 134
+        },
+        {
+          "charID": "Hermia",
+          "text": "Belike for want of rain, which I could well\n[p]Beteem them from the tempest of my eyes.\n",
+          "paragraphNum": 136
+        },
+        {
+          "charID": "Lysander",
+          "text": "Ay me! for aught that I could ever read,\n[p]Could ever hear by tale or history,\n[p]The course of true love never did run smooth;\n[p]But, either it was different in blood,--\n",
+          "paragraphNum": 138
+        },
+        {
+          "charID": "Hermia",
+          "text": "O cross! too high to be enthrall\u0027d to low.\n",
+          "paragraphNum": 142
+        },
+        {
+          "charID": "Lysander",
+          "text": "Or else misgraffed in respect of years,--\n",
+          "paragraphNum": 143
+        },
+        {
+          "charID": "Hermia",
+          "text": "O spite! too old to be engaged to young.\n",
+          "paragraphNum": 144
+        },
+        {
+          "charID": "Lysander",
+          "text": "Or else it stood upon the choice of friends,--\n",
+          "paragraphNum": 145
+        },
+        {
+          "charID": "Hermia",
+          "text": "O hell! to choose love by another\u0027s eyes.\n",
+          "paragraphNum": 146
+        },
+        {
+          "charID": "Lysander",
+          "text": "Or, if there were a sympathy in choice,\n[p]War, death, or sickness did lay siege to it,\n[p]Making it momentany as a sound,\n[p]Swift as a shadow, short as any dream;\n[p]Brief as the lightning in the collied night,\n[p]That, in a spleen, unfolds both heaven and earth,\n[p]And ere a man hath power to say \u0027Behold!\u0027\n[p]The jaws of darkness do devour it up:\n[p]So quick bright things come to confusion.\n",
+          "paragraphNum": 147
+        },
+        {
+          "charID": "Hermia",
+          "text": "If then true lovers have been ever cross\u0027d,\n[p]It stands as an edict in destiny:\n[p]Then let us teach our trial patience,\n[p]Because it is a customary cross,\n[p]As due to love as thoughts and dreams and sighs,\n[p]Wishes and tears, poor fancy\u0027s followers.\n",
+          "paragraphNum": 156
+        },
+        {
+          "charID": "Lysander",
+          "text": "A good persuasion: therefore, hear me, Hermia.\n[p]I have a widow aunt, a dowager\n[p]Of great revenue, and she hath no child:\n[p]From Athens is her house remote seven leagues;\n[p]And she respects me as her only son.\n[p]There, gentle Hermia, may I marry thee;\n[p]And to that place the sharp Athenian law\n[p]Cannot pursue us. If thou lovest me then,\n[p]Steal forth thy father\u0027s house to-morrow night;\n[p]And in the wood, a league without the town,\n[p]Where I did meet thee once with Helena,\n[p]To do observance to a morn of May,\n[p]There will I stay for thee.\n",
+          "paragraphNum": 162
+        },
+        {
+          "charID": "Hermia",
+          "text": "My good Lysander!\n[p]I swear to thee, by Cupid\u0027s strongest bow,\n[p]By his best arrow with the golden head,\n[p]By the simplicity of Venus\u0027 doves,\n[p]By that which knitteth souls and prospers loves,\n[p]And by that fire which burn\u0027d the Carthage queen,\n[p]When the false Troyan under sail was seen,\n[p]By all the vows that ever men have broke,\n[p]In number more than ever women spoke,\n[p]In that same place thou hast appointed me,\n[p]To-morrow truly will I meet with thee.\n",
+          "paragraphNum": 175
+        },
+        {
+          "charID": "Lysander",
+          "text": "Keep promise, love. Look, here comes Helena.\n",
+          "paragraphNum": 186
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter HELENA]\n",
+          "paragraphNum": 187
+        },
+        {
+          "charID": "Hermia",
+          "text": "God speed fair Helena! whither away?\n",
+          "paragraphNum": 188
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "Call you me fair? that fair again unsay.\n[p]Demetrius loves your fair: O happy fair!\n[p]Your eyes are lode-stars; and your tongue\u0027s sweet air\n[p]More tuneable than lark to shepherd\u0027s ear,\n[p]When wheat is green, when hawthorn buds appear.\n[p]Sickness is catching: O, were favour so,\n[p]Yours would I catch, fair Hermia, ere I go;\n[p]My ear should catch your voice, my eye your eye,\n[p]My tongue should catch your tongue\u0027s sweet melody.\n[p]Were the world mine, Demetrius being bated,\n[p]The rest I\u0027d give to be to you translated.\n[p]O, teach me how you look, and with what art\n[p]You sway the motion of Demetrius\u0027 heart.\n",
+          "paragraphNum": 189
+        },
+        {
+          "charID": "Hermia",
+          "text": "I frown upon him, yet he loves me still.\n",
+          "paragraphNum": 202
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "O that your frowns would teach my smiles such skill!\n",
+          "paragraphNum": 203
+        },
+        {
+          "charID": "Hermia",
+          "text": "I give him curses, yet he gives me love.\n",
+          "paragraphNum": 204
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "O that my prayers could such affection move!\n",
+          "paragraphNum": 205
+        },
+        {
+          "charID": "Hermia",
+          "text": "The more I hate, the more he follows me.\n",
+          "paragraphNum": 206
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "The more I love, the more he hateth me.\n",
+          "paragraphNum": 207
+        },
+        {
+          "charID": "Hermia",
+          "text": "His folly, Helena, is no fault of mine.\n",
+          "paragraphNum": 208
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "None, but your beauty: would that fault were mine!\n",
+          "paragraphNum": 209
+        },
+        {
+          "charID": "Hermia",
+          "text": "Take comfort: he no more shall see my face;\n[p]Lysander and myself will fly this place.\n[p]Before the time I did Lysander see,\n[p]Seem\u0027d Athens as a paradise to me:\n[p]O, then, what graces in my love do dwell,\n[p]That he hath turn\u0027d a heaven unto a hell!\n",
+          "paragraphNum": 210
+        },
+        {
+          "charID": "Lysander",
+          "text": "Helen, to you our minds we will unfold:\n[p]To-morrow night, when Phoebe doth behold\n[p]Her silver visage in the watery glass,\n[p]Decking with liquid pearl the bladed grass,\n[p]A time that lovers\u0027 flights doth still conceal,\n[p]Through Athens\u0027 gates have we devised to steal.\n",
+          "paragraphNum": 216
+        },
+        {
+          "charID": "Hermia",
+          "text": "And in the wood, where often you and I\n[p]Upon faint primrose-beds were wont to lie,\n[p]Emptying our bosoms of their counsel sweet,\n[p]There my Lysander and myself shall meet;\n[p]And thence from Athens turn away our eyes,\n[p]To seek new friends and stranger companies.\n[p]Farewell, sweet playfellow: pray thou for us;\n[p]And good luck grant thee thy Demetrius!\n[p]Keep word, Lysander: we must starve our sight\n[p]From lovers\u0027 food till morrow deep midnight.\n",
+          "paragraphNum": 222
+        },
+        {
+          "charID": "Lysander",
+          "text": "I will, my Hermia.\n[p][Exit HERMIA]\n[p]Helena, adieu:\n[p]As you on him, Demetrius dote on you!\n",
+          "paragraphNum": 232
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 236
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "How happy some o\u0027er other some can be!\n[p]Through Athens I am thought as fair as she.\n[p]But what of that? Demetrius thinks not so;\n[p]He will not know what all but he do know:\n[p]And as he errs, doting on Hermia\u0027s eyes,\n[p]So I, admiring of his qualities:\n[p]Things base and vile, folding no quantity,\n[p]Love can transpose to form and dignity:\n[p]Love looks not with the eyes, but with the mind;\n[p]And therefore is wing\u0027d Cupid painted blind:\n[p]Nor hath Love\u0027s mind of any judgement taste;\n[p]Wings and no eyes figure unheedy haste:\n[p]And therefore is Love said to be a child,\n[p]Because in choice he is so oft beguiled.\n[p]As waggish boys in game themselves forswear,\n[p]So the boy Love is perjured every where:\n[p]For ere Demetrius look\u0027d on Hermia\u0027s eyne,\n[p]He hail\u0027d down oaths that he was only mine;\n[p]And when this hail some heat from Hermia felt,\n[p]So he dissolved, and showers of oaths did melt.\n[p]I will go tell him of fair Hermia\u0027s flight:\n[p]Then to the wood will he to-morrow night\n[p]Pursue her; and for this intelligence\n[p]If I have thanks, it is a dear expense:\n[p]But herein mean I to enrich my pain,\n[p]To have his sight thither and back again.\n",
+          "paragraphNum": 237
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 263
+        }
+      ]
+    },
+    "Scene2": {
+      "location": "Athens. QUINCE\u0026#8217;S house.",
+      "paragraphs": [
+        {
+          "charID": "xxx",
+          "text": "[Enter QUINCE, SNUG, BOTTOM, FLUTE, SNOUT, and STARVELING]\n",
+          "paragraphNum": 264
+        },
+        {
+          "charID": "Quince",
+          "text": "Is all our company here?\n",
+          "paragraphNum": 265
+        },
+        {
+          "charID": "Bottom",
+          "text": "You were best to call them generally, man by man,\n[p]according to the scrip.\n",
+          "paragraphNum": 266
+        },
+        {
+          "charID": "Quince",
+          "text": "Here is the scroll of every man\u0027s name, which is\n[p]thought fit, through all Athens, to play in our\n[p]interlude before the duke and the duchess, on his\n[p]wedding-day at night.\n",
+          "paragraphNum": 268
+        },
+        {
+          "charID": "Bottom",
+          "text": "First, good Peter Quince, say what the play treats\n[p]on, then read the names of the actors, and so grow\n[p]to a point.\n",
+          "paragraphNum": 272
+        },
+        {
+          "charID": "Quince",
+          "text": "Marry, our play is, The most lamentable comedy, and\n[p]most cruel death of Pyramus and Thisby.\n",
+          "paragraphNum": 275
+        },
+        {
+          "charID": "Bottom",
+          "text": "A very good piece of work, I assure you, and a\n[p]merry. Now, good Peter Quince, call forth your\n[p]actors by the scroll. Masters, spread yourselves.\n",
+          "paragraphNum": 277
+        },
+        {
+          "charID": "Quince",
+          "text": "Answer as I call you. Nick Bottom, the weaver.\n",
+          "paragraphNum": 280
+        },
+        {
+          "charID": "Bottom",
+          "text": "Ready. Name what part I am for, and proceed.\n",
+          "paragraphNum": 281
+        },
+        {
+          "charID": "Quince",
+          "text": "You, Nick Bottom, are set down for Pyramus.\n",
+          "paragraphNum": 282
+        },
+        {
+          "charID": "Bottom",
+          "text": "What is Pyramus? a lover, or a tyrant?\n",
+          "paragraphNum": 283
+        },
+        {
+          "charID": "Quince",
+          "text": "A lover, that kills himself most gallant for love.\n",
+          "paragraphNum": 284
+        },
+        {
+          "charID": "Bottom",
+          "text": "That will ask some tears in the true performing of\n[p]it: if I do it, let the audience look to their\n[p]eyes; I will move storms, I will condole in some\n[p]measure. To the rest: yet my chief humour is for a\n[p]tyrant: I could play Ercles rarely, or a part to\n[p]tear a cat in, to make all split.\n[p]The raging rocks\n[p]And shivering shocks\n[p]Shall break the locks\n[p]Of prison gates;\n[p]And Phibbus\u0027 car\n[p]Shall shine from far\n[p]And make and mar\n[p]The foolish Fates.\n[p]This was lofty! Now name the rest of the players.\n[p]This is Ercles\u0027 vein, a tyrant\u0027s vein; a lover is\n[p]more condoling.\n",
+          "paragraphNum": 285
+        },
+        {
+          "charID": "Quince",
+          "text": "Francis Flute, the bellows-mender.\n",
+          "paragraphNum": 302
+        },
+        {
+          "charID": "Flute",
+          "text": "Here, Peter Quince.\n",
+          "paragraphNum": 303
+        },
+        {
+          "charID": "Quince",
+          "text": "Flute, you must take Thisby on you.\n",
+          "paragraphNum": 304
+        },
+        {
+          "charID": "Flute",
+          "text": "What is Thisby? a wandering knight?\n",
+          "paragraphNum": 305
+        },
+        {
+          "charID": "Quince",
+          "text": "It is the lady that Pyramus must love.\n",
+          "paragraphNum": 306
+        },
+        {
+          "charID": "Flute",
+          "text": "Nay, faith, let me not play a woman; I have a beard coming.\n",
+          "paragraphNum": 307
+        },
+        {
+          "charID": "Quince",
+          "text": "That\u0027s all one: you shall play it in a mask, and\n[p]you may speak as small as you will.\n",
+          "paragraphNum": 308
+        },
+        {
+          "charID": "Bottom",
+          "text": "An I may hide my face, let me play Thisby too, I\u0027ll\n[p]speak in a monstrous little voice. \u0027Thisne,\n[p]Thisne;\u0027 \u0027Ah, Pyramus, lover dear! thy Thisby dear,\n[p]and lady dear!\u0027\n",
+          "paragraphNum": 310
+        },
+        {
+          "charID": "Quince",
+          "text": "No, no; you must play Pyramus: and, Flute, you Thisby.\n",
+          "paragraphNum": 314
+        },
+        {
+          "charID": "Bottom",
+          "text": "Well, proceed.\n",
+          "paragraphNum": 315
+        },
+        {
+          "charID": "Quince",
+          "text": "Robin Starveling, the tailor.\n",
+          "paragraphNum": 316
+        },
+        {
+          "charID": "Starveling",
+          "text": "Here, Peter Quince.\n",
+          "paragraphNum": 317
+        },
+        {
+          "charID": "Quince",
+          "text": "Robin Starveling, you must play Thisby\u0027s mother.\n[p]Tom Snout, the tinker.\n",
+          "paragraphNum": 318
+        },
+        {
+          "charID": "Snout",
+          "text": "Here, Peter Quince.\n",
+          "paragraphNum": 320
+        },
+        {
+          "charID": "Quince",
+          "text": "You, Pyramus\u0027 father: myself, Thisby\u0027s father:\n[p]Snug, the joiner; you, the lion\u0027s part: and, I\n[p]hope, here is a play fitted.\n",
+          "paragraphNum": 321
+        },
+        {
+          "charID": "Snug",
+          "text": "Have you the lion\u0027s part written? pray you, if it\n[p]be, give it me, for I am slow of study.\n",
+          "paragraphNum": 324
+        },
+        {
+          "charID": "Quince",
+          "text": "You may do it extempore, for it is nothing but roaring.\n",
+          "paragraphNum": 326
+        },
+        {
+          "charID": "Bottom",
+          "text": "Let me play the lion too: I will roar, that I will\n[p]do any man\u0027s heart good to hear me; I will roar,\n[p]that I will make the duke say \u0027Let him roar again,\n[p]let him roar again.\u0027\n",
+          "paragraphNum": 327
+        },
+        {
+          "charID": "Quince",
+          "text": "An you should do it too terribly, you would fright\n[p]the duchess and the ladies, that they would shriek;\n[p]and that were enough to hang us all.\n",
+          "paragraphNum": 331
+        },
+        {
+          "charID": "All-mnd",
+          "text": "That would hang us, every mother\u0027s son.\n",
+          "paragraphNum": 334
+        },
+        {
+          "charID": "Bottom",
+          "text": "I grant you, friends, if that you should fright the\n[p]ladies out of their wits, they would have no more\n[p]discretion but to hang us: but I will aggravate my\n[p]voice so that I will roar you as gently as any\n[p]sucking dove; I will roar you an \u0027twere any\n[p]nightingale.\n",
+          "paragraphNum": 335
+        },
+        {
+          "charID": "Quince",
+          "text": "You can play no part but Pyramus; for Pyramus is a\n[p]sweet-faced man; a proper man, as one shall see in a\n[p]summer\u0027s day; a most lovely gentleman-like man:\n[p]therefore you must needs play Pyramus.\n",
+          "paragraphNum": 341
+        },
+        {
+          "charID": "Bottom",
+          "text": "Well, I will undertake it. What beard were I best\n[p]to play it in?\n",
+          "paragraphNum": 345
+        },
+        {
+          "charID": "Quince",
+          "text": "Why, what you will.\n",
+          "paragraphNum": 347
+        },
+        {
+          "charID": "Bottom",
+          "text": "I will discharge it in either your straw-colour\n[p]beard, your orange-tawny beard, your purple-in-grain\n[p]beard, or your French-crown-colour beard, your\n[p]perfect yellow.\n",
+          "paragraphNum": 348
+        },
+        {
+          "charID": "Quince",
+          "text": "Some of your French crowns have no hair at all, and\n[p]then you will play bare-faced. But, masters, here\n[p]are your parts: and I am to entreat you, request\n[p]you and desire you, to con them by to-morrow night;\n[p]and meet me in the palace wood, a mile without the\n[p]town, by moonlight; there will we rehearse, for if\n[p]we meet in the city, we shall be dogged with\n[p]company, and our devices known. In the meantime I\n[p]will draw a bill of properties, such as our play\n[p]wants. I pray you, fail me not.\n",
+          "paragraphNum": 352
+        },
+        {
+          "charID": "Bottom",
+          "text": "We will meet; and there we may rehearse most\n[p]obscenely and courageously. Take pains; be perfect: adieu.\n",
+          "paragraphNum": 362
+        },
+        {
+          "charID": "Quince",
+          "text": "At the duke\u0027s oak we meet.\n",
+          "paragraphNum": 364
+        },
+        {
+          "charID": "Bottom",
+          "text": "Enough; hold or cut bow-strings.\n",
+          "paragraphNum": 365
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exeunt]\n",
+          "paragraphNum": 366
+        }
+      ]
+    }
+  },
+  "Act2": {
+    "Scene1": {
+      "location": "A wood near Athens.",
+      "paragraphs": [
+        {
+          "charID": "Puck",
+          "text": "How now, spirit! whither wander you?\n",
+          "paragraphNum": 368
+        },
+        {
+          "charID": "Fairy",
+          "text": "Over hill, over dale,\n[p]Thorough bush, thorough brier,\n[p]Over park, over pale,\n[p]Thorough flood, thorough fire,\n[p]I do wander everywhere,\n[p]Swifter than the moon\u0027s sphere;\n[p]And I serve the fairy queen,\n[p]To dew her orbs upon the green.\n[p]The cowslips tall her pensioners be:\n[p]In their gold coats spots you see;\n[p]Those be rubies, fairy favours,\n[p]In those freckles live their savours:\n[p]I must go seek some dewdrops here\n[p]And hang a pearl in every cowslip\u0027s ear.\n[p]Farewell, thou lob of spirits; I\u0027ll be gone:\n[p]Our queen and all our elves come here anon.\n",
+          "paragraphNum": 369
+        },
+        {
+          "charID": "Puck",
+          "text": "The king doth keep his revels here to-night:\n[p]Take heed the queen come not within his sight;\n[p]For Oberon is passing fell and wrath,\n[p]Because that she as her attendant hath\n[p]A lovely boy, stolen from an Indian king;\n[p]She never had so sweet a changeling;\n[p]And jealous Oberon would have the child\n[p]Knight of his train, to trace the forests wild;\n[p]But she perforce withholds the loved boy,\n[p]Crowns him with flowers and makes him all her joy:\n[p]And now they never meet in grove or green,\n[p]By fountain clear, or spangled starlight sheen,\n[p]But, they do square, that all their elves for fear\n[p]Creep into acorn-cups and hide them there.\n",
+          "paragraphNum": 385
+        },
+        {
+          "charID": "Fairy",
+          "text": "Either I mistake your shape and making quite,\n[p]Or else you are that shrewd and knavish sprite\n[p]Call\u0027d Robin Goodfellow: are not you he\n[p]That frights the maidens of the villagery;\n[p]Skim milk, and sometimes labour in the quern\n[p]And bootless make the breathless housewife churn;\n[p]And sometime make the drink to bear no barm;\n[p]Mislead night-wanderers, laughing at their harm?\n[p]Those that Hobgoblin call you and sweet Puck,\n[p]You do their work, and they shall have good luck:\n[p]Are not you he?\n",
+          "paragraphNum": 399
+        },
+        {
+          "charID": "Puck",
+          "text": "Thou speak\u0027st aright;\n[p]I am that merry wanderer of the night.\n[p]I jest to Oberon and make him smile\n[p]When I a fat and bean-fed horse beguile,\n[p]Neighing in likeness of a filly foal:\n[p]And sometime lurk I in a gossip\u0027s bowl,\n[p]In very likeness of a roasted crab,\n[p]And when she drinks, against her lips I bob\n[p]And on her wither\u0027d dewlap pour the ale.\n[p]The wisest aunt, telling the saddest tale,\n[p]Sometime for three-foot stool mistaketh me;\n[p]Then slip I from her bum, down topples she,\n[p]And \u0027tailor\u0027 cries, and falls into a cough;\n[p]And then the whole quire hold their hips and laugh,\n[p]And waxen in their mirth and neeze and swear\n[p]A merrier hour was never wasted there.\n[p]But, room, fairy! here comes Oberon.\n",
+          "paragraphNum": 410
+        },
+        {
+          "charID": "Fairy",
+          "text": "And here my mistress. Would that he were gone!\n",
+          "paragraphNum": 427
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter, from one side, OBERON, with his train; from the other, TITANIA, with hers]\n",
+          "paragraphNum": 428
+        },
+        {
+          "charID": "Oberon",
+          "text": "Ill met by moonlight, proud Titania.\n",
+          "paragraphNum": 429
+        },
+        {
+          "charID": "Titania",
+          "text": "What, jealous Oberon! Fairies, skip hence:\n[p]I have forsworn his bed and company.\n",
+          "paragraphNum": 430
+        },
+        {
+          "charID": "Oberon",
+          "text": "Tarry, rash wanton: am not I thy lord?\n",
+          "paragraphNum": 432
+        },
+        {
+          "charID": "Titania",
+          "text": "Then I must be thy lady: but I know\n[p]When thou hast stolen away from fairy land,\n[p]And in the shape of Corin sat all day,\n[p]Playing on pipes of corn and versing love\n[p]To amorous Phillida. Why art thou here,\n[p]Come from the farthest Steppe of India?\n[p]But that, forsooth, the bouncing Amazon,\n[p]Your buskin\u0027d mistress and your warrior love,\n[p]To Theseus must be wedded, and you come\n[p]To give their bed joy and prosperity.\n",
+          "paragraphNum": 433
+        },
+        {
+          "charID": "Oberon",
+          "text": "How canst thou thus for shame, Titania,\n[p]Glance at my credit with Hippolyta,\n[p]Knowing I know thy love to Theseus?\n[p]Didst thou not lead him through the glimmering night\n[p]From Perigenia, whom he ravished?\n[p]And make him with fair AEgle break his faith,\n[p]With Ariadne and Antiopa?\n",
+          "paragraphNum": 443
+        },
+        {
+          "charID": "Titania",
+          "text": "These are the forgeries of jealousy:\n[p]And never, since the middle summer\u0027s spring,\n[p]Met we on hill, in dale, forest or mead,\n[p]By paved fountain or by rushy brook,\n[p]Or in the beached margent of the sea,\n[p]To dance our ringlets to the whistling wind,\n[p]But with thy brawls thou hast disturb\u0027d our sport.\n[p]Therefore the winds, piping to us in vain,\n[p]As in revenge, have suck\u0027d up from the sea\n[p]Contagious fogs; which falling in the land\n[p]Have every pelting river made so proud\n[p]That they have overborne their continents:\n[p]The ox hath therefore stretch\u0027d his yoke in vain,\n[p]The ploughman lost his sweat, and the green corn\n[p]Hath rotted ere his youth attain\u0027d a beard;\n[p]The fold stands empty in the drowned field,\n[p]And crows are fatted with the murrion flock;\n[p]The nine men\u0027s morris is fill\u0027d up with mud,\n[p]And the quaint mazes in the wanton green\n[p]For lack of tread are undistinguishable:\n[p]The human mortals want their winter here;\n[p]No night is now with hymn or carol blest:\n[p]Therefore the moon, the governess of floods,\n[p]Pale in her anger, washes all the air,\n[p]That rheumatic diseases do abound:\n[p]And thorough this distemperature we see\n[p]The seasons alter: hoary-headed frosts\n[p]Far in the fresh lap of the crimson rose,\n[p]And on old Hiems\u0027 thin and icy crown\n[p]An odorous chaplet of sweet summer buds\n[p]Is, as in mockery, set: the spring, the summer,\n[p]The childing autumn, angry winter, change\n[p]Their wonted liveries, and the mazed world,\n[p]By their increase, now knows not which is which:\n[p]And this same progeny of evils comes\n[p]From our debate, from our dissension;\n[p]We are their parents and original.\n",
+          "paragraphNum": 450
+        },
+        {
+          "charID": "Oberon",
+          "text": "Do you amend it then; it lies in you:\n[p]Why should Titania cross her Oberon?\n[p]I do but beg a little changeling boy,\n[p]To be my henchman.\n",
+          "paragraphNum": 487
+        },
+        {
+          "charID": "Titania",
+          "text": "Set your heart at rest:\n[p]The fairy land buys not the child of me.\n[p]His mother was a votaress of my order:\n[p]And, in the spiced Indian air, by night,\n[p]Full often hath she gossip\u0027d by my side,\n[p]And sat with me on Neptune\u0027s yellow sands,\n[p]Marking the embarked traders on the flood,\n[p]When we have laugh\u0027d to see the sails conceive\n[p]And grow big-bellied with the wanton wind;\n[p]Which she, with pretty and with swimming gait\n[p]Following,--her womb then rich with my young squire,--\n[p]Would imitate, and sail upon the land,\n[p]To fetch me trifles, and return again,\n[p]As from a voyage, rich with merchandise.\n[p]But she, being mortal, of that boy did die;\n[p]And for her sake do I rear up her boy,\n[p]And for her sake I will not part with him.\n",
+          "paragraphNum": 491
+        },
+        {
+          "charID": "Oberon",
+          "text": "How long within this wood intend you stay?\n",
+          "paragraphNum": 508
+        },
+        {
+          "charID": "Titania",
+          "text": "Perchance till after Theseus\u0027 wedding-day.\n[p]If you will patiently dance in our round\n[p]And see our moonlight revels, go with us;\n[p]If not, shun me, and I will spare your haunts.\n",
+          "paragraphNum": 509
+        },
+        {
+          "charID": "Oberon",
+          "text": "Give me that boy, and I will go with thee.\n",
+          "paragraphNum": 513
+        },
+        {
+          "charID": "Titania",
+          "text": "Not for thy fairy kingdom. Fairies, away!\n[p]We shall chide downright, if I longer stay.\n",
+          "paragraphNum": 514
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit TITANIA with her train]\n",
+          "paragraphNum": 516
+        },
+        {
+          "charID": "Oberon",
+          "text": "Well, go thy way: thou shalt not from this grove\n[p]Till I torment thee for this injury.\n[p]My gentle Puck, come hither. Thou rememberest\n[p]Since once I sat upon a promontory,\n[p]And heard a mermaid on a dolphin\u0027s back\n[p]Uttering such dulcet and harmonious breath\n[p]That the rude sea grew civil at her song\n[p]And certain stars shot madly from their spheres,\n[p]To hear the sea-maid\u0027s music.\n",
+          "paragraphNum": 517
+        },
+        {
+          "charID": "Puck",
+          "text": "I remember.\n",
+          "paragraphNum": 526
+        },
+        {
+          "charID": "Oberon",
+          "text": "That very time I saw, but thou couldst not,\n[p]Flying between the cold moon and the earth,\n[p]Cupid all arm\u0027d: a certain aim he took\n[p]At a fair vestal throned by the west,\n[p]And loosed his love-shaft smartly from his bow,\n[p]As it should pierce a hundred thousand hearts;\n[p]But I might see young Cupid\u0027s fiery shaft\n[p]Quench\u0027d in the chaste beams of the watery moon,\n[p]And the imperial votaress passed on,\n[p]In maiden meditation, fancy-free.\n[p]Yet mark\u0027d I where the bolt of Cupid fell:\n[p]It fell upon a little western flower,\n[p]Before milk-white, now purple with love\u0027s wound,\n[p]And maidens call it love-in-idleness.\n[p]Fetch me that flower; the herb I shew\u0027d thee once:\n[p]The juice of it on sleeping eye-lids laid\n[p]Will make or man or woman madly dote\n[p]Upon the next live creature that it sees.\n[p]Fetch me this herb; and be thou here again\n[p]Ere the leviathan can swim a league.\n",
+          "paragraphNum": 527
+        },
+        {
+          "charID": "Puck",
+          "text": "I\u0027ll put a girdle round about the earth\n[p]In forty minutes.\n",
+          "paragraphNum": 547
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 549
+        },
+        {
+          "charID": "Oberon",
+          "text": "Having once this juice,\n[p]I\u0027ll watch Titania when she is asleep,\n[p]And drop the liquor of it in her eyes.\n[p]The next thing then she waking looks upon,\n[p]Be it on lion, bear, or wolf, or bull,\n[p]On meddling monkey, or on busy ape,\n[p]She shall pursue it with the soul of love:\n[p]And ere I take this charm from off her sight,\n[p]As I can take it with another herb,\n[p]I\u0027ll make her render up her page to me.\n[p]But who comes here? I am invisible;\n[p]And I will overhear their conference.\n",
+          "paragraphNum": 550
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter DEMETRIUS, HELENA, following him]\n",
+          "paragraphNum": 562
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "I love thee not, therefore pursue me not.\n[p]Where is Lysander and fair Hermia?\n[p]The one I\u0027ll slay, the other slayeth me.\n[p]Thou told\u0027st me they were stolen unto this wood;\n[p]And here am I, and wode within this wood,\n[p]Because I cannot meet my Hermia.\n[p]Hence, get thee gone, and follow me no more.\n",
+          "paragraphNum": 563
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "You draw me, you hard-hearted adamant;\n[p]But yet you draw not iron, for my heart\n[p]Is true as steel: leave you your power to draw,\n[p]And I shall have no power to follow you.\n",
+          "paragraphNum": 570
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "Do I entice you? do I speak you fair?\n[p]Or, rather, do I not in plainest truth\n[p]Tell you, I do not, nor I cannot love you?\n",
+          "paragraphNum": 574
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "And even for that do I love you the more.\n[p]I am your spaniel; and, Demetrius,\n[p]The more you beat me, I will fawn on you:\n[p]Use me but as your spaniel, spurn me, strike me,\n[p]Neglect me, lose me; only give me leave,\n[p]Unworthy as I am, to follow you.\n[p]What worser place can I beg in your love,--\n[p]And yet a place of high respect with me,--\n[p]Than to be used as you use your dog?\n",
+          "paragraphNum": 577
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "Tempt not too much the hatred of my spirit;\n[p]For I am sick when I do look on thee.\n",
+          "paragraphNum": 586
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "And I am sick when I look not on you.\n",
+          "paragraphNum": 588
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "You do impeach your modesty too much,\n[p]To leave the city and commit yourself\n[p]Into the hands of one that loves you not;\n[p]To trust the opportunity of night\n[p]And the ill counsel of a desert place\n[p]With the rich worth of your virginity.\n",
+          "paragraphNum": 589
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "Your virtue is my privilege: for that\n[p]It is not night when I do see your face,\n[p]Therefore I think I am not in the night;\n[p]Nor doth this wood lack worlds of company,\n[p]For you in my respect are all the world:\n[p]Then how can it be said I am alone,\n[p]When all the world is here to look on me?\n",
+          "paragraphNum": 595
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "I\u0027ll run from thee and hide me in the brakes,\n[p]And leave thee to the mercy of wild beasts.\n",
+          "paragraphNum": 602
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "The wildest hath not such a heart as you.\n[p]Run when you will, the story shall be changed:\n[p]Apollo flies, and Daphne holds the chase;\n[p]The dove pursues the griffin; the mild hind\n[p]Makes speed to catch the tiger; bootless speed,\n[p]When cowardice pursues and valour flies.\n",
+          "paragraphNum": 604
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "I will not stay thy questions; let me go:\n[p]Or, if thou follow me, do not believe\n[p]But I shall do thee mischief in the wood.\n",
+          "paragraphNum": 610
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "Ay, in the temple, in the town, the field,\n[p]You do me mischief. Fie, Demetrius!\n[p]Your wrongs do set a scandal on my sex:\n[p]We cannot fight for love, as men may do;\n[p]We should be wood and were not made to woo.\n[p][Exit DEMETRIUS]\n[p]I\u0027ll follow thee and make a heaven of hell,\n[p]To die upon the hand I love so well.\n",
+          "paragraphNum": 613
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 621
+        },
+        {
+          "charID": "Oberon",
+          "text": "Fare thee well, nymph: ere he do leave this grove,\n[p]Thou shalt fly him and he shall seek thy love.\n[p][Re-enter PUCK]\n[p]Hast thou the flower there? Welcome, wanderer.\n",
+          "paragraphNum": 622
+        },
+        {
+          "charID": "Puck",
+          "text": "Ay, there it is.\n",
+          "paragraphNum": 626
+        },
+        {
+          "charID": "Oberon",
+          "text": "I pray thee, give it me.\n[p]I know a bank where the wild thyme blows,\n[p]Where oxlips and the nodding violet grows,\n[p]Quite over-canopied with luscious woodbine,\n[p]With sweet musk-roses and with eglantine:\n[p]There sleeps Titania sometime of the night,\n[p]Lull\u0027d in these flowers with dances and delight;\n[p]And there the snake throws her enamell\u0027d skin,\n[p]Weed wide enough to wrap a fairy in:\n[p]And with the juice of this I\u0027ll streak her eyes,\n[p]And make her full of hateful fantasies.\n[p]Take thou some of it, and seek through this grove:\n[p]A sweet Athenian lady is in love\n[p]With a disdainful youth: anoint his eyes;\n[p]But do it when the next thing he espies\n[p]May be the lady: thou shalt know the man\n[p]By the Athenian garments he hath on.\n[p]Effect it with some care, that he may prove\n[p]More fond on her than she upon her love:\n[p]And look thou meet me ere the first cock crow.\n",
+          "paragraphNum": 627
+        },
+        {
+          "charID": "Puck",
+          "text": "Fear not, my lord, your servant shall do so.\n",
+          "paragraphNum": 647
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exeunt]\n",
+          "paragraphNum": 648
+        }
+      ]
+    },
+    "Scene2": {
+      "location": "Another part of the wood.",
+      "paragraphs": [
+        {
+          "charID": "xxx",
+          "text": "[Enter TITANIA, with her train]\n",
+          "paragraphNum": 649
+        },
+        {
+          "charID": "Titania",
+          "text": "Come, now a roundel and a fairy song;\n[p]Then, for the third part of a minute, hence;\n[p]Some to kill cankers in the musk-rose buds,\n[p]Some war with rere-mice for their leathern wings,\n[p]To make my small elves coats, and some keep back\n[p]The clamorous owl that nightly hoots and wonders\n[p]At our quaint spirits. Sing me now asleep;\n[p]Then to your offices and let me rest.\n[p][The Fairies sing]\n[p]You spotted snakes with double tongue,\n[p]Thorny hedgehogs, be not seen;\n[p]Newts and blind-worms, do no wrong,\n[p]Come not near our fairy queen.\n[p]Philomel, with melody\n[p]Sing in our sweet lullaby;\n[p]Lulla, lulla, lullaby, lulla, lulla, lullaby:\n[p]Never harm,\n[p]Nor spell nor charm,\n[p]Come our lovely lady nigh;\n[p]So, good night, with lullaby.\n[p]Weaving spiders, come not here;\n[p]Hence, you long-legg\u0027d spinners, hence!\n[p]Beetles black, approach not near;\n[p]Worm nor snail, do no offence.\n[p]Philomel, with melody, \u0026c.\n",
+          "paragraphNum": 650
+        },
+        {
+          "charID": "Fairy",
+          "text": "Hence, away! now all is well:\n[p]One aloof stand sentinel.\n",
+          "paragraphNum": 675
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exeunt Fairies. TITANIA sleeps]\n",
+          "paragraphNum": 677
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter OBERON and squeezes the flower on TITANIA\u0027s eyelids]\n",
+          "paragraphNum": 678
+        },
+        {
+          "charID": "Oberon",
+          "text": "What thou seest when thou dost wake,\n[p]Do it for thy true-love take,\n[p]Love and languish for his sake:\n[p]Be it ounce, or cat, or bear,\n[p]Pard, or boar with bristled hair,\n[p]In thy eye that shall appear\n[p]When thou wakest, it is thy dear:\n[p]Wake when some vile thing is near.\n",
+          "paragraphNum": 679
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 687
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter LYSANDER and HERMIA]\n",
+          "paragraphNum": 688
+        },
+        {
+          "charID": "Lysander",
+          "text": "Fair love, you faint with wandering in the wood;\n[p]And to speak troth, I have forgot our way:\n[p]We\u0027ll rest us, Hermia, if you think it good,\n[p]And tarry for the comfort of the day.\n",
+          "paragraphNum": 689
+        },
+        {
+          "charID": "Hermia",
+          "text": "Be it so, Lysander: find you out a bed;\n[p]For I upon this bank will rest my head.\n",
+          "paragraphNum": 693
+        },
+        {
+          "charID": "Lysander",
+          "text": "One turf shall serve as pillow for us both;\n[p]One heart, one bed, two bosoms and one troth.\n",
+          "paragraphNum": 695
+        },
+        {
+          "charID": "Hermia",
+          "text": "Nay, good Lysander; for my sake, my dear,\n[p]Lie further off yet, do not lie so near.\n",
+          "paragraphNum": 697
+        },
+        {
+          "charID": "Lysander",
+          "text": "O, take the sense, sweet, of my innocence!\n[p]Love takes the meaning in love\u0027s conference.\n[p]I mean, that my heart unto yours is knit\n[p]So that but one heart we can make of it;\n[p]Two bosoms interchained with an oath;\n[p]So then two bosoms and a single troth.\n[p]Then by your side no bed-room me deny;\n[p]For lying so, Hermia, I do not lie.\n",
+          "paragraphNum": 699
+        },
+        {
+          "charID": "Hermia",
+          "text": "Lysander riddles very prettily:\n[p]Now much beshrew my manners and my pride,\n[p]If Hermia meant to say Lysander lied.\n[p]But, gentle friend, for love and courtesy\n[p]Lie further off; in human modesty,\n[p]Such separation as may well be said\n[p]Becomes a virtuous bachelor and a maid,\n[p]So far be distant; and, good night, sweet friend:\n[p]Thy love ne\u0027er alter till thy sweet life end!\n",
+          "paragraphNum": 707
+        },
+        {
+          "charID": "Lysander",
+          "text": "Amen, amen, to that fair prayer, say I;\n[p]And then end life when I end loyalty!\n[p]Here is my bed: sleep give thee all his rest!\n",
+          "paragraphNum": 716
+        },
+        {
+          "charID": "Hermia",
+          "text": "With half that wish the wisher\u0027s eyes be press\u0027d!\n",
+          "paragraphNum": 719
+        },
+        {
+          "charID": "xxx",
+          "text": "[They sleep]\n",
+          "paragraphNum": 720
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter PUCK]\n",
+          "paragraphNum": 721
+        },
+        {
+          "charID": "Puck",
+          "text": "Through the forest have I gone.\n[p]But Athenian found I none,\n[p]On whose eyes I might approve\n[p]This flower\u0027s force in stirring love.\n[p]Night and silence.--Who is here?\n[p]Weeds of Athens he doth wear:\n[p]This is he, my master said,\n[p]Despised the Athenian maid;\n[p]And here the maiden, sleeping sound,\n[p]On the dank and dirty ground.\n[p]Pretty soul! she durst not lie\n[p]Near this lack-love, this kill-courtesy.\n[p]Churl, upon thy eyes I throw\n[p]All the power this charm doth owe.\n[p]When thou wakest, let love forbid\n[p]Sleep his seat on thy eyelid:\n[p]So awake when I am gone;\n[p]For I must now to Oberon.\n",
+          "paragraphNum": 722
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 740
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter DEMETRIUS and HELENA, running]\n",
+          "paragraphNum": 741
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "Stay, though thou kill me, sweet Demetrius.\n",
+          "paragraphNum": 742
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "I charge thee, hence, and do not haunt me thus.\n",
+          "paragraphNum": 743
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "O, wilt thou darkling leave me? do not so.\n",
+          "paragraphNum": 744
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "Stay, on thy peril: I alone will go.\n",
+          "paragraphNum": 745
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 746
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "O, I am out of breath in this fond chase!\n[p]The more my prayer, the lesser is my grace.\n[p]Happy is Hermia, wheresoe\u0027er she lies;\n[p]For she hath blessed and attractive eyes.\n[p]How came her eyes so bright? Not with salt tears:\n[p]If so, my eyes are oftener wash\u0027d than hers.\n[p]No, no, I am as ugly as a bear;\n[p]For beasts that meet me run away for fear:\n[p]Therefore no marvel though Demetrius\n[p]Do, as a monster fly my presence thus.\n[p]What wicked and dissembling glass of mine\n[p]Made me compare with Hermia\u0027s sphery eyne?\n[p]But who is here? Lysander! on the ground!\n[p]Dead? or asleep? I see no blood, no wound.\n[p]Lysander if you live, good sir, awake.\n",
+          "paragraphNum": 747
+        },
+        {
+          "charID": "Lysander",
+          "text": "[Awaking] And run through fire I will for thy sweet sake.\n[p]Transparent Helena! Nature shows art,\n[p]That through thy bosom makes me see thy heart.\n[p]Where is Demetrius? O, how fit a word\n[p]Is that vile name to perish on my sword!\n",
+          "paragraphNum": 762
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "Do not say so, Lysander; say not so\n[p]What though he love your Hermia? Lord, what though?\n[p]Yet Hermia still loves you: then be content.\n",
+          "paragraphNum": 767
+        },
+        {
+          "charID": "Lysander",
+          "text": "Content with Hermia! No; I do repent\n[p]The tedious minutes I with her have spent.\n[p]Not Hermia but Helena I love:\n[p]Who will not change a raven for a dove?\n[p]The will of man is by his reason sway\u0027d;\n[p]And reason says you are the worthier maid.\n[p]Things growing are not ripe until their season\n[p]So I, being young, till now ripe not to reason;\n[p]And touching now the point of human skill,\n[p]Reason becomes the marshal to my will\n[p]And leads me to your eyes, where I o\u0027erlook\n[p]Love\u0027s stories written in love\u0027s richest book.\n",
+          "paragraphNum": 770
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "Wherefore was I to this keen mockery born?\n[p]When at your hands did I deserve this scorn?\n[p]Is\u0027t not enough, is\u0027t not enough, young man,\n[p]That I did never, no, nor never can,\n[p]Deserve a sweet look from Demetrius\u0027 eye,\n[p]But you must flout my insufficiency?\n[p]Good troth, you do me wrong, good sooth, you do,\n[p]In such disdainful manner me to woo.\n[p]But fare you well: perforce I must confess\n[p]I thought you lord of more true gentleness.\n[p]O, that a lady, of one man refused.\n[p]Should of another therefore be abused!\n",
+          "paragraphNum": 782
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 794
+        },
+        {
+          "charID": "Lysander",
+          "text": "She sees not Hermia. Hermia, sleep thou there:\n[p]And never mayst thou come Lysander near!\n[p]For as a surfeit of the sweetest things\n[p]The deepest loathing to the stomach brings,\n[p]Or as tie heresies that men do leave\n[p]Are hated most of those they did deceive,\n[p]So thou, my surfeit and my heresy,\n[p]Of all be hated, but the most of me!\n[p]And, all my powers, address your love and might\n[p]To honour Helen and to be her knight!\n",
+          "paragraphNum": 795
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 805
+        },
+        {
+          "charID": "Hermia",
+          "text": "[Awaking] Help me, Lysander, help me! do thy best\n[p]To pluck this crawling serpent from my breast!\n[p]Ay me, for pity! what a dream was here!\n[p]Lysander, look how I do quake with fear:\n[p]Methought a serpent eat my heart away,\n[p]And you sat smiling at his cruel pray.\n[p]Lysander! what, removed? Lysander! lord!\n[p]What, out of hearing? gone? no sound, no word?\n[p]Alack, where are you speak, an if you hear;\n[p]Speak, of all loves! I swoon almost with fear.\n[p]No? then I well perceive you all not nigh\n[p]Either death or you I\u0027ll find immediately.\n",
+          "paragraphNum": 806
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 818
+        }
+      ]
+    }
+  },
+  "Act3": {
+    "Scene1": {
+      "location": "The wood. TITANIA lying asleep.",
+      "paragraphs": [
+        {
+          "charID": "Bottom",
+          "text": "Are we all met?\n",
+          "paragraphNum": 820
+        },
+        {
+          "charID": "Quince",
+          "text": "Pat, pat; and here\u0027s a marvellous convenient place\n[p]for our rehearsal. This green plot shall be our\n[p]stage, this hawthorn-brake our tiring-house; and we\n[p]will do it in action as we will do it before the duke.\n",
+          "paragraphNum": 821
+        },
+        {
+          "charID": "Bottom",
+          "text": "Peter Quince,--\n",
+          "paragraphNum": 825
+        },
+        {
+          "charID": "Quince",
+          "text": "What sayest thou, bully Bottom?\n",
+          "paragraphNum": 826
+        },
+        {
+          "charID": "Bottom",
+          "text": "There are things in this comedy of Pyramus and\n[p]Thisby that will never please. First, Pyramus must\n[p]draw a sword to kill himself; which the ladies\n[p]cannot abide. How answer you that?\n",
+          "paragraphNum": 827
+        },
+        {
+          "charID": "Snout",
+          "text": "By\u0027r lakin, a parlous fear.\n",
+          "paragraphNum": 831
+        },
+        {
+          "charID": "Starveling",
+          "text": "I believe we must leave the killing out, when all is done.\n",
+          "paragraphNum": 832
+        },
+        {
+          "charID": "Bottom",
+          "text": "Not a whit: I have a device to make all well.\n[p]Write me a prologue; and let the prologue seem to\n[p]say, we will do no harm with our swords, and that\n[p]Pyramus is not killed indeed; and, for the more\n[p]better assurance, tell them that I, Pyramus, am not\n[p]Pyramus, but Bottom the weaver: this will put them\n[p]out of fear.\n",
+          "paragraphNum": 833
+        },
+        {
+          "charID": "Quince",
+          "text": "Well, we will have such a prologue; and it shall be\n[p]written in eight and six.\n",
+          "paragraphNum": 840
+        },
+        {
+          "charID": "Bottom",
+          "text": "No, make it two more; let it be written in eight and eight.\n",
+          "paragraphNum": 842
+        },
+        {
+          "charID": "Snout",
+          "text": "Will not the ladies be afeard of the lion?\n",
+          "paragraphNum": 843
+        },
+        {
+          "charID": "Starveling",
+          "text": "I fear it, I promise you.\n",
+          "paragraphNum": 844
+        },
+        {
+          "charID": "Bottom",
+          "text": "Masters, you ought to consider with yourselves: to\n[p]bring in--God shield us!--a lion among ladies, is a\n[p]most dreadful thing; for there is not a more fearful\n[p]wild-fowl than your lion living; and we ought to\n[p]look to \u0027t.\n",
+          "paragraphNum": 845
+        },
+        {
+          "charID": "Snout",
+          "text": "Therefore another prologue must tell he is not a lion.\n",
+          "paragraphNum": 850
+        },
+        {
+          "charID": "Bottom",
+          "text": "Nay, you must name his name, and half his face must\n[p]be seen through the lion\u0027s neck: and he himself\n[p]must speak through, saying thus, or to the same\n[p]defect,--\u0027Ladies,\u0027--or \u0027Fair-ladies--I would wish\n[p]You,\u0027--or \u0027I would request you,\u0027--or \u0027I would\n[p]entreat you,--not to fear, not to tremble: my life\n[p]for yours. If you think I come hither as a lion, it\n[p]were pity of my life: no I am no such thing; I am a\n[p]man as other men are;\u0027 and there indeed let him name\n[p]his name, and tell them plainly he is Snug the joiner.\n",
+          "paragraphNum": 851
+        },
+        {
+          "charID": "Quince",
+          "text": "Well it shall be so. But there is two hard things;\n[p]that is, to bring the moonlight into a chamber; for,\n[p]you know, Pyramus and Thisby meet by moonlight.\n",
+          "paragraphNum": 861
+        },
+        {
+          "charID": "Snout",
+          "text": "Doth the moon shine that night we play our play?\n",
+          "paragraphNum": 864
+        },
+        {
+          "charID": "Bottom",
+          "text": "A calendar, a calendar! look in the almanac; find\n[p]out moonshine, find out moonshine.\n",
+          "paragraphNum": 865
+        },
+        {
+          "charID": "Quince",
+          "text": "Yes, it doth shine that night.\n",
+          "paragraphNum": 867
+        },
+        {
+          "charID": "Bottom",
+          "text": "Why, then may you leave a casement of the great\n[p]chamber window, where we play, open, and the moon\n[p]may shine in at the casement.\n",
+          "paragraphNum": 868
+        },
+        {
+          "charID": "Quince",
+          "text": "Ay; or else one must come in with a bush of thorns\n[p]and a lanthorn, and say he comes to disfigure, or to\n[p]present, the person of Moonshine. Then, there is\n[p]another thing: we must have a wall in the great\n[p]chamber; for Pyramus and Thisby says the story, did\n[p]talk through the chink of a wall.\n",
+          "paragraphNum": 871
+        },
+        {
+          "charID": "Snout",
+          "text": "You can never bring in a wall. What say you, Bottom?\n",
+          "paragraphNum": 877
+        },
+        {
+          "charID": "Bottom",
+          "text": "Some man or other must present Wall: and let him\n[p]have some plaster, or some loam, or some rough-cast\n[p]about him, to signify wall; and let him hold his\n[p]fingers thus, and through that cranny shall Pyramus\n[p]and Thisby whisper.\n",
+          "paragraphNum": 878
+        },
+        {
+          "charID": "Quince",
+          "text": "If that may be, then all is well. Come, sit down,\n[p]every mother\u0027s son, and rehearse your parts.\n[p]Pyramus, you begin: when you have spoken your\n[p]speech, enter into that brake: and so every one\n[p]according to his cue.\n",
+          "paragraphNum": 883
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter PUCK behind]\n",
+          "paragraphNum": 888
+        },
+        {
+          "charID": "Puck",
+          "text": "What hempen home-spuns have we swaggering here,\n[p]So near the cradle of the fairy queen?\n[p]What, a play toward! I\u0027ll be an auditor;\n[p]An actor too, perhaps, if I see cause.\n",
+          "paragraphNum": 889
+        },
+        {
+          "charID": "Quince",
+          "text": "Speak, Pyramus. Thisby, stand forth.\n",
+          "paragraphNum": 893
+        },
+        {
+          "charID": "Bottom",
+          "text": "Thisby, the flowers of odious savours sweet,--\n",
+          "paragraphNum": 894
+        },
+        {
+          "charID": "Quince",
+          "text": "Odours, odours.\n",
+          "paragraphNum": 895
+        },
+        {
+          "charID": "Bottom",
+          "text": "--odours savours sweet:\n[p]So hath thy breath, my dearest Thisby dear.\n[p]But hark, a voice! stay thou but here awhile,\n[p]And by and by I will to thee appear.\n",
+          "paragraphNum": 896
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 900
+        },
+        {
+          "charID": "Puck",
+          "text": "A stranger Pyramus than e\u0027er played here.\n",
+          "paragraphNum": 901
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 902
+        },
+        {
+          "charID": "Flute",
+          "text": "Must I speak now?\n",
+          "paragraphNum": 903
+        },
+        {
+          "charID": "Quince",
+          "text": "Ay, marry, must you; for you must understand he goes\n[p]but to see a noise that he heard, and is to come again.\n",
+          "paragraphNum": 904
+        },
+        {
+          "charID": "Flute",
+          "text": "Most radiant Pyramus, most lily-white of hue,\n[p]Of colour like the red rose on triumphant brier,\n[p]Most brisky juvenal and eke most lovely Jew,\n[p]As true as truest horse that yet would never tire,\n[p]I\u0027ll meet thee, Pyramus, at Ninny\u0027s tomb.\n",
+          "paragraphNum": 906
+        },
+        {
+          "charID": "Quince",
+          "text": "\u0027Ninus\u0027 tomb,\u0027 man: why, you must not speak that\n[p]yet; that you answer to Pyramus: you speak all your\n[p]part at once, cues and all Pyramus enter: your cue\n[p]is past; it is, \u0027never tire.\u0027\n",
+          "paragraphNum": 911
+        },
+        {
+          "charID": "Flute",
+          "text": "O,--As true as truest horse, that yet would\n[p]never tire.\n",
+          "paragraphNum": 915
+        },
+        {
+          "charID": "xxx",
+          "text": "[Re-enter PUCK, and BOTTOM with an ass\u0027s head]\n",
+          "paragraphNum": 917
+        },
+        {
+          "charID": "Bottom",
+          "text": "If I were fair, Thisby, I were only thine.\n",
+          "paragraphNum": 918
+        },
+        {
+          "charID": "Quince",
+          "text": "O monstrous! O strange! we are haunted. Pray,\n[p]masters! fly, masters! Help!\n",
+          "paragraphNum": 919
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exeunt QUINCE, SNUG, FLUTE, SNOUT, and STARVELING]\n",
+          "paragraphNum": 921
+        },
+        {
+          "charID": "Puck",
+          "text": "I\u0027ll follow you, I\u0027ll lead you about a round,\n[p]Through bog, through bush, through brake, through brier:\n[p]Sometime a horse I\u0027ll be, sometime a hound,\n[p]A hog, a headless bear, sometime a fire;\n[p]And neigh, and bark, and grunt, and roar, and burn,\n[p]Like horse, hound, hog, bear, fire, at every turn.\n",
+          "paragraphNum": 922
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 928
+        },
+        {
+          "charID": "Bottom",
+          "text": "Why do they run away? this is a knavery of them to\n[p]make me afeard.\n",
+          "paragraphNum": 929
+        },
+        {
+          "charID": "xxx",
+          "text": "[Re-enter SNOUT]\n",
+          "paragraphNum": 931
+        },
+        {
+          "charID": "Snout",
+          "text": "O Bottom, thou art changed! what do I see on thee?\n",
+          "paragraphNum": 932
+        },
+        {
+          "charID": "Bottom",
+          "text": "What do you see? you see an asshead of your own, do\n[p]you?\n",
+          "paragraphNum": 933
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit SNOUT]\n",
+          "paragraphNum": 935
+        },
+        {
+          "charID": "xxx",
+          "text": "[Re-enter QUINCE]\n",
+          "paragraphNum": 936
+        },
+        {
+          "charID": "Quince",
+          "text": "Bless thee, Bottom! bless thee! thou art\n[p]translated.\n",
+          "paragraphNum": 937
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 939
+        },
+        {
+          "charID": "Bottom",
+          "text": "I see their knavery: this is to make an ass of me;\n[p]to fright me, if they could. But I will not stir\n[p]from this place, do what they can: I will walk up\n[p]and down here, and I will sing, that they shall hear\n[p]I am not afraid.\n[p][Sings]\n[p]The ousel cock so black of hue,\n[p]With orange-tawny bill,\n[p]The throstle with his note so true,\n[p]The wren with little quill,--\n",
+          "paragraphNum": 940
+        },
+        {
+          "charID": "Titania",
+          "text": "[Awaking] What angel wakes me from my flowery bed?\n",
+          "paragraphNum": 950
+        },
+        {
+          "charID": "Bottom",
+          "text": "[Sings]\n[p]The finch, the sparrow and the lark,\n[p]The plain-song cuckoo gray,\n[p]Whose note full many a man doth mark,\n[p]And dares not answer nay;--\n[p]for, indeed, who would set his wit to so foolish\n[p]a bird? who would give a bird the lie, though he cry\n[p]\u0027cuckoo\u0027 never so?\n",
+          "paragraphNum": 951
+        },
+        {
+          "charID": "Titania",
+          "text": "I pray thee, gentle mortal, sing again:\n[p]Mine ear is much enamour\u0027d of thy note;\n[p]So is mine eye enthralled to thy shape;\n[p]And thy fair virtue\u0027s force perforce doth move me\n[p]On the first view to say, to swear, I love thee.\n",
+          "paragraphNum": 959
+        },
+        {
+          "charID": "Bottom",
+          "text": "Methinks, mistress, you should have little reason\n[p]for that: and yet, to say the truth, reason and\n[p]love keep little company together now-a-days; the\n[p]more the pity that some honest neighbours will not\n[p]make them friends. Nay, I can gleek upon occasion.\n",
+          "paragraphNum": 964
+        },
+        {
+          "charID": "Titania",
+          "text": "Thou art as wise as thou art beautiful.\n",
+          "paragraphNum": 969
+        },
+        {
+          "charID": "Bottom",
+          "text": "Not so, neither: but if I had wit enough to get out\n[p]of this wood, I have enough to serve mine own turn.\n",
+          "paragraphNum": 970
+        },
+        {
+          "charID": "Titania",
+          "text": "Out of this wood do not desire to go:\n[p]Thou shalt remain here, whether thou wilt or no.\n[p]I am a spirit of no common rate;\n[p]The summer still doth tend upon my state;\n[p]And I do love thee: therefore, go with me;\n[p]I\u0027ll give thee fairies to attend on thee,\n[p]And they shall fetch thee jewels from the deep,\n[p]And sing while thou on pressed flowers dost sleep;\n[p]And I will purge thy mortal grossness so\n[p]That thou shalt like an airy spirit go.\n[p]Peaseblossom! Cobweb! Moth! and Mustardseed!\n",
+          "paragraphNum": 972
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter PEASEBLOSSOM, COBWEB, MOTH, and MUSTARDSEED]\n",
+          "paragraphNum": 983
+        },
+        {
+          "charID": "Peaseblossom",
+          "text": "Ready.\n",
+          "paragraphNum": 984
+        },
+        {
+          "charID": "Cobweb",
+          "text": "And I.\n",
+          "paragraphNum": 985
+        },
+        {
+          "charID": "Moth-mnd",
+          "text": "And I.\n",
+          "paragraphNum": 986
+        },
+        {
+          "charID": "Mustardseed",
+          "text": "And I.\n",
+          "paragraphNum": 987
+        },
+        {
+          "charID": "All-mnd",
+          "text": "Where shall we go?\n",
+          "paragraphNum": 988
+        },
+        {
+          "charID": "Titania",
+          "text": "Be kind and courteous to this gentleman;\n[p]Hop in his walks and gambol in his eyes;\n[p]Feed him with apricocks and dewberries,\n[p]With purple grapes, green figs, and mulberries;\n[p]The honey-bags steal from the humble-bees,\n[p]And for night-tapers crop their waxen thighs\n[p]And light them at the fiery glow-worm\u0027s eyes,\n[p]To have my love to bed and to arise;\n[p]And pluck the wings from Painted butterflies\n[p]To fan the moonbeams from his sleeping eyes:\n[p]Nod to him, elves, and do him courtesies.\n",
+          "paragraphNum": 989
+        },
+        {
+          "charID": "Peaseblossom",
+          "text": "Hail, mortal!\n",
+          "paragraphNum": 1000
+        },
+        {
+          "charID": "Cobweb",
+          "text": "Hail!\n",
+          "paragraphNum": 1001
+        },
+        {
+          "charID": "Moth-mnd",
+          "text": "Hail!\n",
+          "paragraphNum": 1002
+        },
+        {
+          "charID": "Mustardseed",
+          "text": "Hail!\n",
+          "paragraphNum": 1003
+        },
+        {
+          "charID": "Bottom",
+          "text": "I cry your worship\u0027s mercy, heartily: I beseech your\n[p]worship\u0027s name.\n",
+          "paragraphNum": 1004
+        },
+        {
+          "charID": "Cobweb",
+          "text": "Cobweb.\n",
+          "paragraphNum": 1006
+        },
+        {
+          "charID": "Bottom",
+          "text": "I shall desire you of more acquaintance, good Master\n[p]Cobweb: if I cut my finger, I shall make bold with\n[p]you. Your name, honest gentleman?\n",
+          "paragraphNum": 1007
+        },
+        {
+          "charID": "Peaseblossom",
+          "text": "Peaseblossom.\n",
+          "paragraphNum": 1010
+        },
+        {
+          "charID": "Bottom",
+          "text": "I pray you, commend me to Mistress Squash, your\n[p]mother, and to Master Peascod, your father. Good\n[p]Master Peaseblossom, I shall desire you of more\n[p]acquaintance too. Your name, I beseech you, sir?\n",
+          "paragraphNum": 1011
+        },
+        {
+          "charID": "Mustardseed",
+          "text": "Mustardseed.\n",
+          "paragraphNum": 1015
+        },
+        {
+          "charID": "Bottom",
+          "text": "Good Master Mustardseed, I know your patience well:\n[p]that same cowardly, giant-like ox-beef hath\n[p]devoured many a gentleman of your house: I promise\n[p]you your kindred had made my eyes water ere now. I\n[p]desire your more acquaintance, good Master\n[p]Mustardseed.\n",
+          "paragraphNum": 1016
+        },
+        {
+          "charID": "Titania",
+          "text": "Come, wait upon him; lead him to my bower.\n[p]The moon methinks looks with a watery eye;\n[p]And when she weeps, weeps every little flower,\n[p]Lamenting some enforced chastity.\n[p]Tie up my love\u0027s tongue bring him silently.\n",
+          "paragraphNum": 1022
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exeunt]\n",
+          "paragraphNum": 1027
+        }
+      ]
+    },
+    "Scene2": {
+      "location": "Another part of the wood.",
+      "paragraphs": [
+        {
+          "charID": "xxx",
+          "text": "[Enter OBERON]\n",
+          "paragraphNum": 1028
+        },
+        {
+          "charID": "Oberon",
+          "text": "I wonder if Titania be awaked;\n[p]Then, what it was that next came in her eye,\n[p]Which she must dote on in extremity.\n[p][Enter PUCK]\n[p]Here comes my messenger.\n[p]How now, mad spirit!\n[p]What night-rule now about this haunted grove?\n",
+          "paragraphNum": 1029
+        },
+        {
+          "charID": "Puck",
+          "text": "My mistress with a monster is in love.\n[p]Near to her close and consecrated bower,\n[p]While she was in her dull and sleeping hour,\n[p]A crew of patches, rude mechanicals,\n[p]That work for bread upon Athenian stalls,\n[p]Were met together to rehearse a play\n[p]Intended for great Theseus\u0027 nuptial-day.\n[p]The shallowest thick-skin of that barren sort,\n[p]Who Pyramus presented, in their sport\n[p]Forsook his scene and enter\u0027d in a brake\n[p]When I did him at this advantage take,\n[p]An ass\u0027s nole I fixed on his head:\n[p]Anon his Thisbe must be answered,\n[p]And forth my mimic comes. When they him spy,\n[p]As wild geese that the creeping fowler eye,\n[p]Or russet-pated choughs, many in sort,\n[p]Rising and cawing at the gun\u0027s report,\n[p]Sever themselves and madly sweep the sky,\n[p]So, at his sight, away his fellows fly;\n[p]And, at our stamp, here o\u0027er and o\u0027er one falls;\n[p]He murder cries and help from Athens calls.\n[p]Their sense thus weak, lost with their fears\n[p]thus strong,\n[p]Made senseless things begin to do them wrong;\n[p]For briers and thorns at their apparel snatch;\n[p]Some sleeves, some hats, from yielders all\n[p]things catch.\n[p]I led them on in this distracted fear,\n[p]And left sweet Pyramus translated there:\n[p]When in that moment, so it came to pass,\n[p]Titania waked and straightway loved an ass.\n",
+          "paragraphNum": 1036
+        },
+        {
+          "charID": "Oberon",
+          "text": "This falls out better than I could devise.\n[p]But hast thou yet latch\u0027d the Athenian\u0027s eyes\n[p]With the love-juice, as I did bid thee do?\n",
+          "paragraphNum": 1067
+        },
+        {
+          "charID": "Puck",
+          "text": "I took him sleeping,--that is finish\u0027d too,--\n[p]And the Athenian woman by his side:\n[p]That, when he waked, of force she must be eyed.\n",
+          "paragraphNum": 1070
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter HERMIA and DEMETRIUS]\n",
+          "paragraphNum": 1073
+        },
+        {
+          "charID": "Oberon",
+          "text": "Stand close: this is the same Athenian.\n",
+          "paragraphNum": 1074
+        },
+        {
+          "charID": "Puck",
+          "text": "This is the woman, but not this the man.\n",
+          "paragraphNum": 1075
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "O, why rebuke you him that loves you so?\n[p]Lay breath so bitter on your bitter foe.\n",
+          "paragraphNum": 1076
+        },
+        {
+          "charID": "Hermia",
+          "text": "Now I but chide; but I should use thee worse,\n[p]For thou, I fear, hast given me cause to curse,\n[p]If thou hast slain Lysander in his sleep,\n[p]Being o\u0027er shoes in blood, plunge in the deep,\n[p]And kill me too.\n[p]The sun was not so true unto the day\n[p]As he to me: would he have stolen away\n[p]From sleeping Hermia? I\u0027ll believe as soon\n[p]This whole earth may be bored and that the moon\n[p]May through the centre creep and so displease\n[p]Her brother\u0027s noontide with Antipodes.\n[p]It cannot be but thou hast murder\u0027d him;\n[p]So should a murderer look, so dead, so grim.\n",
+          "paragraphNum": 1078
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "So should the murder\u0027d look, and so should I,\n[p]Pierced through the heart with your stern cruelty:\n[p]Yet you, the murderer, look as bright, as clear,\n[p]As yonder Venus in her glimmering sphere.\n",
+          "paragraphNum": 1091
+        },
+        {
+          "charID": "Hermia",
+          "text": "What\u0027s this to my Lysander? where is he?\n[p]Ah, good Demetrius, wilt thou give him me?\n",
+          "paragraphNum": 1095
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "I had rather give his carcass to my hounds.\n",
+          "paragraphNum": 1097
+        },
+        {
+          "charID": "Hermia",
+          "text": "Out, dog! out, cur! thou drivest me past the bounds\n[p]Of maiden\u0027s patience. Hast thou slain him, then?\n[p]Henceforth be never number\u0027d among men!\n[p]O, once tell true, tell true, even for my sake!\n[p]Durst thou have look\u0027d upon him being awake,\n[p]And hast thou kill\u0027d him sleeping? O brave touch!\n[p]Could not a worm, an adder, do so much?\n[p]An adder did it; for with doubler tongue\n[p]Than thine, thou serpent, never adder stung.\n",
+          "paragraphNum": 1098
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "You spend your passion on a misprised mood:\n[p]I am not guilty of Lysander\u0027s blood;\n[p]Nor is he dead, for aught that I can tell.\n",
+          "paragraphNum": 1107
+        },
+        {
+          "charID": "Hermia",
+          "text": "I pray thee, tell me then that he is well.\n",
+          "paragraphNum": 1110
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "An if I could, what should I get therefore?\n",
+          "paragraphNum": 1111
+        },
+        {
+          "charID": "Hermia",
+          "text": "A privilege never to see me more.\n[p]And from thy hated presence part I so:\n[p]See me no more, whether he be dead or no.\n",
+          "paragraphNum": 1112
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 1115
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "There is no following her in this fierce vein:\n[p]Here therefore for a while I will remain.\n[p]So sorrow\u0027s heaviness doth heavier grow\n[p]For debt that bankrupt sleep doth sorrow owe:\n[p]Which now in some slight measure it will pay,\n[p]If for his tender here I make some stay.\n",
+          "paragraphNum": 1116
+        },
+        {
+          "charID": "xxx",
+          "text": "[Lies down and sleeps]\n",
+          "paragraphNum": 1122
+        },
+        {
+          "charID": "Oberon",
+          "text": "What hast thou done? thou hast mistaken quite\n[p]And laid the love-juice on some true-love\u0027s sight:\n[p]Of thy misprision must perforce ensue\n[p]Some true love turn\u0027d and not a false turn\u0027d true.\n",
+          "paragraphNum": 1123
+        },
+        {
+          "charID": "Puck",
+          "text": "Then fate o\u0027er-rules, that, one man holding troth,\n[p]A million fail, confounding oath on oath.\n",
+          "paragraphNum": 1127
+        },
+        {
+          "charID": "Oberon",
+          "text": "About the wood go swifter than the wind,\n[p]And Helena of Athens look thou find:\n[p]All fancy-sick she is and pale of cheer,\n[p]With sighs of love, that costs the fresh blood dear:\n[p]By some illusion see thou bring her here:\n[p]I\u0027ll charm his eyes against she do appear.\n",
+          "paragraphNum": 1129
+        },
+        {
+          "charID": "Puck",
+          "text": "I go, I go; look how I go,\n[p]Swifter than arrow from the Tartar\u0027s bow.\n",
+          "paragraphNum": 1135
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 1137
+        },
+        {
+          "charID": "Oberon",
+          "text": "Flower of this purple dye,\n[p]Hit with Cupid\u0027s archery,\n[p]Sink in apple of his eye.\n[p]When his love he doth espy,\n[p]Let her shine as gloriously\n[p]As the Venus of the sky.\n[p]When thou wakest, if she be by,\n[p]Beg of her for remedy.\n",
+          "paragraphNum": 1138
+        },
+        {
+          "charID": "xxx",
+          "text": "[Re-enter PUCK]\n",
+          "paragraphNum": 1146
+        },
+        {
+          "charID": "Puck",
+          "text": "Captain of our fairy band,\n[p]Helena is here at hand;\n[p]And the youth, mistook by me,\n[p]Pleading for a lover\u0027s fee.\n[p]Shall we their fond pageant see?\n[p]Lord, what fools these mortals be!\n",
+          "paragraphNum": 1147
+        },
+        {
+          "charID": "Oberon",
+          "text": "Stand aside: the noise they make\n[p]Will cause Demetrius to awake.\n",
+          "paragraphNum": 1153
+        },
+        {
+          "charID": "Puck",
+          "text": "Then will two at once woo one;\n[p]That must needs be sport alone;\n[p]And those things do best please me\n[p]That befal preposterously.\n",
+          "paragraphNum": 1155
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter LYSANDER and HELENA]\n",
+          "paragraphNum": 1159
+        },
+        {
+          "charID": "Lysander",
+          "text": "Why should you think that I should woo in scorn?\n[p]Scorn and derision never come in tears:\n[p]Look, when I vow, I weep; and vows so born,\n[p]In their nativity all truth appears.\n[p]How can these things in me seem scorn to you,\n[p]Bearing the badge of faith, to prove them true?\n",
+          "paragraphNum": 1160
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "You do advance your cunning more and more.\n[p]When truth kills truth, O devilish-holy fray!\n[p]These vows are Hermia\u0027s: will you give her o\u0027er?\n[p]Weigh oath with oath, and you will nothing weigh:\n[p]Your vows to her and me, put in two scales,\n[p]Will even weigh, and both as light as tales.\n",
+          "paragraphNum": 1166
+        },
+        {
+          "charID": "Lysander",
+          "text": "I had no judgment when to her I swore.\n",
+          "paragraphNum": 1172
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "Nor none, in my mind, now you give her o\u0027er.\n",
+          "paragraphNum": 1173
+        },
+        {
+          "charID": "Lysander",
+          "text": "Demetrius loves her, and he loves not you.\n",
+          "paragraphNum": 1174
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "[Awaking] O Helena, goddess, nymph, perfect, divine!\n[p]To what, my love, shall I compare thine eyne?\n[p]Crystal is muddy. O, how ripe in show\n[p]Thy lips, those kissing cherries, tempting grow!\n[p]That pure congealed white, high Taurus snow,\n[p]Fann\u0027d with the eastern wind, turns to a crow\n[p]When thou hold\u0027st up thy hand: O, let me kiss\n[p]This princess of pure white, this seal of bliss!\n",
+          "paragraphNum": 1175
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "O spite! O hell! I see you all are bent\n[p]To set against me for your merriment:\n[p]If you we re civil and knew courtesy,\n[p]You would not do me thus much injury.\n[p]Can you not hate me, as I know you do,\n[p]But you must join in souls to mock me too?\n[p]If you were men, as men you are in show,\n[p]You would not use a gentle lady so;\n[p]To vow, and swear, and superpraise my parts,\n[p]When I am sure you hate me with your hearts.\n[p]You both are rivals, and love Hermia;\n[p]And now both rivals, to mock Helena:\n[p]A trim exploit, a manly enterprise,\n[p]To conjure tears up in a poor maid\u0027s eyes\n[p]With your derision! none of noble sort\n[p]Would so offend a virgin, and extort\n[p]A poor soul\u0027s patience, all to make you sport.\n",
+          "paragraphNum": 1183
+        },
+        {
+          "charID": "Lysander",
+          "text": "You are unkind, Demetrius; be not so;\n[p]For you love Hermia; this you know I know:\n[p]And here, with all good will, with all my heart,\n[p]In Hermia\u0027s love I yield you up my part;\n[p]And yours of Helena to me bequeath,\n[p]Whom I do love and will do till my death.\n",
+          "paragraphNum": 1200
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "Never did mockers waste more idle breath.\n",
+          "paragraphNum": 1206
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "Lysander, keep thy Hermia; I will none:\n[p]If e\u0027er I loved her, all that love is gone.\n[p]My heart to her but as guest-wise sojourn\u0027d,\n[p]And now to Helen is it home return\u0027d,\n[p]There to remain.\n",
+          "paragraphNum": 1207
+        },
+        {
+          "charID": "Lysander",
+          "text": "Helen, it is not so.\n",
+          "paragraphNum": 1212
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "Disparage not the faith thou dost not know,\n[p]Lest, to thy peril, thou aby it dear.\n[p]Look, where thy love comes; yonder is thy dear.\n",
+          "paragraphNum": 1213
+        },
+        {
+          "charID": "xxx",
+          "text": "[Re-enter HERMIA]\n",
+          "paragraphNum": 1216
+        },
+        {
+          "charID": "Hermia",
+          "text": "Dark night, that from the eye his function takes,\n[p]The ear more quick of apprehension makes;\n[p]Wherein it doth impair the seeing sense,\n[p]It pays the hearing double recompense.\n[p]Thou art not by mine eye, Lysander, found;\n[p]Mine ear, I thank it, brought me to thy sound\n[p]But why unkindly didst thou leave me so?\n",
+          "paragraphNum": 1217
+        },
+        {
+          "charID": "Lysander",
+          "text": "Why should he stay, whom love doth press to go?\n",
+          "paragraphNum": 1224
+        },
+        {
+          "charID": "Hermia",
+          "text": "What love could press Lysander from my side?\n",
+          "paragraphNum": 1225
+        },
+        {
+          "charID": "Lysander",
+          "text": "Lysander\u0027s love, that would not let him bide,\n[p]Fair Helena, who more engilds the night\n[p]Than all you fiery oes and eyes of light.\n[p]Why seek\u0027st thou me? could not this make thee know,\n[p]The hate I bear thee made me leave thee so?\n",
+          "paragraphNum": 1226
+        },
+        {
+          "charID": "Hermia",
+          "text": "You speak not as you think: it cannot be.\n",
+          "paragraphNum": 1231
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "Lo, she is one of this confederacy!\n[p]Now I perceive they have conjoin\u0027d all three\n[p]To fashion this false sport, in spite of me.\n[p]Injurious Hermia! most ungrateful maid!\n[p]Have you conspired, have you with these contrived\n[p]To bait me with this foul derision?\n[p]Is all the counsel that we two have shared,\n[p]The sisters\u0027 vows, the hours that we have spent,\n[p]When we have chid the hasty-footed time\n[p]For parting us,--O, is it all forgot?\n[p]All school-days\u0027 friendship, childhood innocence?\n[p]We, Hermia, like two artificial gods,\n[p]Have with our needles created both one flower,\n[p]Both on one sampler, sitting on one cushion,\n[p]Both warbling of one song, both in one key,\n[p]As if our hands, our sides, voices and minds,\n[p]Had been incorporate. So we grow together,\n[p]Like to a double cherry, seeming parted,\n[p]But yet an union in partition;\n[p]Two lovely berries moulded on one stem;\n[p]So, with two seeming bodies, but one heart;\n[p]Two of the first, like coats in heraldry,\n[p]Due but to one and crowned with one crest.\n[p]And will you rent our ancient love asunder,\n[p]To join with men in scorning your poor friend?\n[p]It is not friendly, \u0027tis not maidenly:\n[p]Our sex, as well as I, may chide you for it,\n[p]Though I alone do feel the injury.\n",
+          "paragraphNum": 1232
+        },
+        {
+          "charID": "Hermia",
+          "text": "I am amazed at your passionate words.\n[p]I scorn you not: it seems that you scorn me.\n",
+          "paragraphNum": 1260
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "Have you not set Lysander, as in scorn,\n[p]To follow me and praise my eyes and face?\n[p]And made your other love, Demetrius,\n[p]Who even but now did spurn me with his foot,\n[p]To call me goddess, nymph, divine and rare,\n[p]Precious, celestial? Wherefore speaks he this\n[p]To her he hates? and wherefore doth Lysander\n[p]Deny your love, so rich within his soul,\n[p]And tender me, forsooth, affection,\n[p]But by your setting on, by your consent?\n[p]What thought I be not so in grace as you,\n[p]So hung upon with love, so fortunate,\n[p]But miserable most, to love unloved?\n[p]This you should pity rather than despise.\n",
+          "paragraphNum": 1262
+        },
+        {
+          "charID": "Hermia",
+          "text": "I understand not what you mean by this.\n",
+          "paragraphNum": 1276
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "Ay, do, persever, counterfeit sad looks,\n[p]Make mouths upon me when I turn my back;\n[p]Wink each at other; hold the sweet jest up:\n[p]This sport, well carried, shall be chronicled.\n[p]If you have any pity, grace, or manners,\n[p]You would not make me such an argument.\n[p]But fare ye well: \u0027tis partly my own fault;\n[p]Which death or absence soon shall remedy.\n",
+          "paragraphNum": 1277
+        },
+        {
+          "charID": "Lysander",
+          "text": "Stay, gentle Helena; hear my excuse:\n[p]My love, my life my soul, fair Helena!\n",
+          "paragraphNum": 1285
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "O excellent!\n",
+          "paragraphNum": 1287
+        },
+        {
+          "charID": "Hermia",
+          "text": "Sweet, do not scorn her so.\n",
+          "paragraphNum": 1288
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "If she cannot entreat, I can compel.\n",
+          "paragraphNum": 1289
+        },
+        {
+          "charID": "Lysander",
+          "text": "Thou canst compel no more than she entreat:\n[p]Thy threats have no more strength than her weak prayers.\n[p]Helen, I love thee; by my life, I do:\n[p]I swear by that which I will lose for thee,\n[p]To prove him false that says I love thee not.\n",
+          "paragraphNum": 1290
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "I say I love thee more than he can do.\n",
+          "paragraphNum": 1295
+        },
+        {
+          "charID": "Lysander",
+          "text": "If thou say so, withdraw, and prove it too.\n",
+          "paragraphNum": 1296
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "Quick, come!\n",
+          "paragraphNum": 1297
+        },
+        {
+          "charID": "Hermia",
+          "text": "Lysander, whereto tends all this?\n",
+          "paragraphNum": 1298
+        },
+        {
+          "charID": "Lysander",
+          "text": "Away, you Ethiope!\n",
+          "paragraphNum": 1299
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "No, no; he\u0027ll\n[p]Seem to break loose; take on as you would follow,\n[p]But yet come not: you are a tame man, go!\n",
+          "paragraphNum": 1300
+        },
+        {
+          "charID": "Lysander",
+          "text": "Hang off, thou cat, thou burr! vile thing, let loose,\n[p]Or I will shake thee from me like a serpent!\n",
+          "paragraphNum": 1303
+        },
+        {
+          "charID": "Hermia",
+          "text": "Why are you grown so rude? what change is this?\n[p]Sweet love,--\n",
+          "paragraphNum": 1305
+        },
+        {
+          "charID": "Lysander",
+          "text": "Thy love! out, tawny Tartar, out!\n[p]Out, loathed medicine! hated potion, hence!\n",
+          "paragraphNum": 1307
+        },
+        {
+          "charID": "Hermia",
+          "text": "Do you not jest?\n",
+          "paragraphNum": 1309
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "Yes, sooth; and so do you.\n",
+          "paragraphNum": 1310
+        },
+        {
+          "charID": "Lysander",
+          "text": "Demetrius, I will keep my word with thee.\n",
+          "paragraphNum": 1311
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "I would I had your bond, for I perceive\n[p]A weak bond holds you: I\u0027ll not trust your word.\n",
+          "paragraphNum": 1312
+        },
+        {
+          "charID": "Lysander",
+          "text": "What, should I hurt her, strike her, kill her dead?\n[p]Although I hate her, I\u0027ll not harm her so.\n",
+          "paragraphNum": 1314
+        },
+        {
+          "charID": "Hermia",
+          "text": "What, can you do me greater harm than hate?\n[p]Hate me! wherefore? O me! what news, my love!\n[p]Am not I Hermia? are not you Lysander?\n[p]I am as fair now as I was erewhile.\n[p]Since night you loved me; yet since night you left\n[p]me:\n[p]Why, then you left me--O, the gods forbid!--\n[p]In earnest, shall I say?\n",
+          "paragraphNum": 1316
+        },
+        {
+          "charID": "Lysander",
+          "text": "Ay, by my life;\n[p]And never did desire to see thee more.\n[p]Therefore be out of hope, of question, of doubt;\n[p]Be certain, nothing truer; \u0027tis no jest\n[p]That I do hate thee and love Helena.\n",
+          "paragraphNum": 1324
+        },
+        {
+          "charID": "Hermia",
+          "text": "O me! you juggler! you canker-blossom!\n[p]You thief of love! what, have you come by night\n[p]And stolen my love\u0027s heart from him?\n",
+          "paragraphNum": 1329
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "Fine, i\u0027faith!\n[p]Have you no modesty, no maiden shame,\n[p]No touch of bashfulness? What, will you tear\n[p]Impatient answers from my gentle tongue?\n[p]Fie, fie! you counterfeit, you puppet, you!\n",
+          "paragraphNum": 1332
+        },
+        {
+          "charID": "Hermia",
+          "text": "Puppet? why so? ay, that way goes the game.\n[p]Now I perceive that she hath made compare\n[p]Between our statures; she hath urged her height;\n[p]And with her personage, her tall personage,\n[p]Her height, forsooth, she hath prevail\u0027d with him.\n[p]And are you grown so high in his esteem;\n[p]Because I am so dwarfish and so low?\n[p]How low am I, thou painted maypole? speak;\n[p]How low am I? I am not yet so low\n[p]But that my nails can reach unto thine eyes.\n",
+          "paragraphNum": 1337
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "I pray you, though you mock me, gentlemen,\n[p]Let her not hurt me: I was never curst;\n[p]I have no gift at all in shrewishness;\n[p]I am a right maid for my cowardice:\n[p]Let her not strike me. You perhaps may think,\n[p]Because she is something lower than myself,\n[p]That I can match her.\n",
+          "paragraphNum": 1347
+        },
+        {
+          "charID": "Hermia",
+          "text": "Lower! hark, again.\n",
+          "paragraphNum": 1354
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "Good Hermia, do not be so bitter with me.\n[p]I evermore did love you, Hermia,\n[p]Did ever keep your counsels, never wrong\u0027d you;\n[p]Save that, in love unto Demetrius,\n[p]I told him of your stealth unto this wood.\n[p]He follow\u0027d you; for love I follow\u0027d him;\n[p]But he hath chid me hence and threaten\u0027d me\n[p]To strike me, spurn me, nay, to kill me too:\n[p]And now, so you will let me quiet go,\n[p]To Athens will I bear my folly back\n[p]And follow you no further: let me go:\n[p]You see how simple and how fond I am.\n",
+          "paragraphNum": 1355
+        },
+        {
+          "charID": "Hermia",
+          "text": "Why, get you gone: who is\u0027t that hinders you?\n",
+          "paragraphNum": 1367
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "A foolish heart, that I leave here behind.\n",
+          "paragraphNum": 1368
+        },
+        {
+          "charID": "Hermia",
+          "text": "What, with Lysander?\n",
+          "paragraphNum": 1369
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "With Demetrius.\n",
+          "paragraphNum": 1370
+        },
+        {
+          "charID": "Lysander",
+          "text": "Be not afraid; she shall not harm thee, Helena.\n",
+          "paragraphNum": 1371
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "No, sir, she shall not, though you take her part.\n",
+          "paragraphNum": 1372
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "O, when she\u0027s angry, she is keen and shrewd!\n[p]She was a vixen when she went to school;\n[p]And though she be but little, she is fierce.\n",
+          "paragraphNum": 1373
+        },
+        {
+          "charID": "Hermia",
+          "text": "\u0027Little\u0027 again! nothing but \u0027low\u0027 and \u0027little\u0027!\n[p]Why will you suffer her to flout me thus?\n[p]Let me come to her.\n",
+          "paragraphNum": 1376
+        },
+        {
+          "charID": "Lysander",
+          "text": "Get you gone, you dwarf;\n[p]You minimus, of hindering knot-grass made;\n[p]You bead, you acorn.\n",
+          "paragraphNum": 1379
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "You are too officious\n[p]In her behalf that scorns your services.\n[p]Let her alone: speak not of Helena;\n[p]Take not her part; for, if thou dost intend\n[p]Never so little show of love to her,\n[p]Thou shalt aby it.\n",
+          "paragraphNum": 1382
+        },
+        {
+          "charID": "Lysander",
+          "text": "Now she holds me not;\n[p]Now follow, if thou darest, to try whose right,\n[p]Of thine or mine, is most in Helena.\n",
+          "paragraphNum": 1388
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "Follow! nay, I\u0027ll go with thee, cheek by jole.\n",
+          "paragraphNum": 1391
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exeunt LYSANDER and DEMETRIUS]\n",
+          "paragraphNum": 1392
+        },
+        {
+          "charID": "Hermia",
+          "text": "You, mistress, all this coil is \u0027long of you:\n[p]Nay, go not back.\n",
+          "paragraphNum": 1393
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "I will not trust you, I,\n[p]Nor longer stay in your curst company.\n[p]Your hands than mine are quicker for a fray,\n[p]My legs are longer though, to run away.\n",
+          "paragraphNum": 1395
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 1399
+        },
+        {
+          "charID": "Hermia",
+          "text": "I am amazed, and know not what to say.\n",
+          "paragraphNum": 1400
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 1401
+        },
+        {
+          "charID": "Oberon",
+          "text": "This is thy negligence: still thou mistakest,\n[p]Or else committ\u0027st thy knaveries wilfully.\n",
+          "paragraphNum": 1402
+        },
+        {
+          "charID": "Puck",
+          "text": "Believe me, king of shadows, I mistook.\n[p]Did not you tell me I should know the man\n[p]By the Athenian garment be had on?\n[p]And so far blameless proves my enterprise,\n[p]That I have \u0027nointed an Athenian\u0027s eyes;\n[p]And so far am I glad it so did sort\n[p]As this their jangling I esteem a sport.\n",
+          "paragraphNum": 1404
+        },
+        {
+          "charID": "Oberon",
+          "text": "Thou see\u0027st these lovers seek a place to fight:\n[p]Hie therefore, Robin, overcast the night;\n[p]The starry welkin cover thou anon\n[p]With drooping fog as black as Acheron,\n[p]And lead these testy rivals so astray\n[p]As one come not within another\u0027s way.\n[p]Like to Lysander sometime frame thy tongue,\n[p]Then stir Demetrius up with bitter wrong;\n[p]And sometime rail thou like Demetrius;\n[p]And from each other look thou lead them thus,\n[p]Till o\u0027er their brows death-counterfeiting sleep\n[p]With leaden legs and batty wings doth creep:\n[p]Then crush this herb into Lysander\u0027s eye;\n[p]Whose liquor hath this virtuous property,\n[p]To take from thence all error with his might,\n[p]And make his eyeballs roll with wonted sight.\n[p]When they next wake, all this derision\n[p]Shall seem a dream and fruitless vision,\n[p]And back to Athens shall the lovers wend,\n[p]With league whose date till death shall never end.\n[p]Whiles I in this affair do thee employ,\n[p]I\u0027ll to my queen and beg her Indian boy;\n[p]And then I will her charmed eye release\n[p]From monster\u0027s view, and all things shall be peace.\n",
+          "paragraphNum": 1411
+        },
+        {
+          "charID": "Puck",
+          "text": "My fairy lord, this must be done with haste,\n[p]For night\u0027s swift dragons cut the clouds full fast,\n[p]And yonder shines Aurora\u0027s harbinger;\n[p]At whose approach, ghosts, wandering here and there,\n[p]Troop home to churchyards: damned spirits all,\n[p]That in crossways and floods have burial,\n[p]Already to their wormy beds are gone;\n[p]For fear lest day should look their shames upon,\n[p]They willfully themselves exile from light\n[p]And must for aye consort with black-brow\u0027d night.\n",
+          "paragraphNum": 1435
+        },
+        {
+          "charID": "Oberon",
+          "text": "But we are spirits of another sort:\n[p]I with the morning\u0027s love have oft made sport,\n[p]And, like a forester, the groves may tread,\n[p]Even till the eastern gate, all fiery-red,\n[p]Opening on Neptune with fair blessed beams,\n[p]Turns into yellow gold his salt green streams.\n[p]But, notwithstanding, haste; make no delay:\n[p]We may effect this business yet ere day.\n",
+          "paragraphNum": 1445
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 1453
+        },
+        {
+          "charID": "Puck",
+          "text": "Up and down, up and down,\n[p]I will lead them up and down:\n[p]I am fear\u0027d in field and town:\n[p]Goblin, lead them up and down.\n[p]Here comes one.\n",
+          "paragraphNum": 1454
+        },
+        {
+          "charID": "xxx",
+          "text": "[Re-enter LYSANDER]\n",
+          "paragraphNum": 1459
+        },
+        {
+          "charID": "Lysander",
+          "text": "Where art thou, proud Demetrius? speak thou now.\n",
+          "paragraphNum": 1460
+        },
+        {
+          "charID": "Puck",
+          "text": "Here, villain; drawn and ready. Where art thou?\n",
+          "paragraphNum": 1461
+        },
+        {
+          "charID": "Lysander",
+          "text": "I will be with thee straight.\n",
+          "paragraphNum": 1462
+        },
+        {
+          "charID": "Puck",
+          "text": "Follow me, then,\n[p]To plainer ground.\n",
+          "paragraphNum": 1463
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit LYSANDER, as following the voice]\n",
+          "paragraphNum": 1465
+        },
+        {
+          "charID": "xxx",
+          "text": "[Re-enter DEMETRIUS]\n",
+          "paragraphNum": 1466
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "Lysander! speak again:\n[p]Thou runaway, thou coward, art thou fled?\n[p]Speak! In some bush? Where dost thou hide thy head?\n",
+          "paragraphNum": 1467
+        },
+        {
+          "charID": "Puck",
+          "text": "Thou coward, art thou bragging to the stars,\n[p]Telling the bushes that thou look\u0027st for wars,\n[p]And wilt not come? Come, recreant; come, thou child;\n[p]I\u0027ll whip thee with a rod: he is defiled\n[p]That draws a sword on thee.\n",
+          "paragraphNum": 1470
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "Yea, art thou there?\n",
+          "paragraphNum": 1475
+        },
+        {
+          "charID": "Puck",
+          "text": "Follow my voice: we\u0027ll try no manhood here.\n",
+          "paragraphNum": 1476
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exeunt]\n",
+          "paragraphNum": 1477
+        },
+        {
+          "charID": "xxx",
+          "text": "[Re-enter LYSANDER]\n",
+          "paragraphNum": 1478
+        },
+        {
+          "charID": "Lysander",
+          "text": "He goes before me and still dares me on:\n[p]When I come where he calls, then he is gone.\n[p]The villain is much lighter-heel\u0027d than I:\n[p]I follow\u0027d fast, but faster he did fly;\n[p]That fallen am I in dark uneven way,\n[p]And here will rest me.\n[p][Lies down]\n[p]Come, thou gentle day!\n[p]For if but once thou show me thy grey light,\n[p]I\u0027ll find Demetrius and revenge this spite.\n",
+          "paragraphNum": 1479
+        },
+        {
+          "charID": "xxx",
+          "text": "[Sleeps]\n",
+          "paragraphNum": 1489
+        },
+        {
+          "charID": "xxx",
+          "text": "[Re-enter PUCK and DEMETRIUS]\n",
+          "paragraphNum": 1490
+        },
+        {
+          "charID": "Puck",
+          "text": "Ho, ho, ho! Coward, why comest thou not?\n",
+          "paragraphNum": 1491
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "Abide me, if thou darest; for well I wot\n[p]Thou runn\u0027st before me, shifting every place,\n[p]And darest not stand, nor look me in the face.\n[p]Where art thou now?\n",
+          "paragraphNum": 1492
+        },
+        {
+          "charID": "Puck",
+          "text": "Come hither: I am here.\n",
+          "paragraphNum": 1496
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "Nay, then, thou mock\u0027st me. Thou shalt buy this dear,\n[p]If ever I thy face by daylight see:\n[p]Now, go thy way. Faintness constraineth me\n[p]To measure out my length on this cold bed.\n[p]By day\u0027s approach look to be visited.\n",
+          "paragraphNum": 1497
+        },
+        {
+          "charID": "xxx",
+          "text": "[Lies down and sleeps]\n",
+          "paragraphNum": 1502
+        },
+        {
+          "charID": "xxx",
+          "text": "[Re-enter HELENA]\n",
+          "paragraphNum": 1503
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "O weary night, O long and tedious night,\n[p]Abate thy hour! Shine comforts from the east,\n[p]That I may back to Athens by daylight,\n[p]From these that my poor company detest:\n[p]And sleep, that sometimes shuts up sorrow\u0027s eye,\n[p]Steal me awhile from mine own company.\n",
+          "paragraphNum": 1504
+        },
+        {
+          "charID": "xxx",
+          "text": "[Lies down and sleeps]\n",
+          "paragraphNum": 1510
+        },
+        {
+          "charID": "Puck",
+          "text": "Yet but three? Come one more;\n[p]Two of both kinds make up four.\n[p]Here she comes, curst and sad:\n[p]Cupid is a knavish lad,\n[p]Thus to make poor females mad.\n",
+          "paragraphNum": 1511
+        },
+        {
+          "charID": "xxx",
+          "text": "[Re-enter HERMIA]\n",
+          "paragraphNum": 1516
+        },
+        {
+          "charID": "Hermia",
+          "text": "Never so weary, never so in woe,\n[p]Bedabbled with the dew and torn with briers,\n[p]I can no further crawl, no further go;\n[p]My legs can keep no pace with my desires.\n[p]Here will I rest me till the break of day.\n[p]Heavens shield Lysander, if they mean a fray!\n",
+          "paragraphNum": 1517
+        },
+        {
+          "charID": "xxx",
+          "text": "[Lies down and sleeps]\n",
+          "paragraphNum": 1523
+        },
+        {
+          "charID": "Puck",
+          "text": "On the ground\n[p]Sleep sound:\n[p]I\u0027ll apply\n[p]To your eye,\n[p]Gentle lover, remedy.\n[p][Squeezing the juice on LYSANDER\u0027s eyes]\n[p]When thou wakest,\n[p]Thou takest\n[p]True delight\n[p]In the sight\n[p]Of thy former lady\u0027s eye:\n[p]And the country proverb known,\n[p]That every man should take his own,\n[p]In your waking shall be shown:\n[p]Jack shall have Jill;\n[p]Nought shall go ill;\n[p]The man shall have his mare again, and all shall be well.\n",
+          "paragraphNum": 1524
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 1541
+        }
+      ]
+    }
+  },
+  "Act4": {
+    "Scene1": {
+      "location": "The same. LYSANDER, DEMETRIUS, HELENA, and HERMIA",
+      "paragraphs": [
+        {
+          "charID": "Titania",
+          "text": "Come, sit thee down upon this flowery bed,\n[p]While I thy amiable cheeks do coy,\n[p]And stick musk-roses in thy sleek smooth head,\n[p]And kiss thy fair large ears, my gentle joy.\n",
+          "paragraphNum": 1546
+        },
+        {
+          "charID": "Bottom",
+          "text": "Where\u0027s Peaseblossom?\n",
+          "paragraphNum": 1550
+        },
+        {
+          "charID": "Peaseblossom",
+          "text": "Ready.\n",
+          "paragraphNum": 1551
+        },
+        {
+          "charID": "Bottom",
+          "text": "Scratch my head Peaseblossom. Where\u0027s Mounsieur Cobweb?\n",
+          "paragraphNum": 1552
+        },
+        {
+          "charID": "Cobweb",
+          "text": "Ready.\n",
+          "paragraphNum": 1553
+        },
+        {
+          "charID": "Bottom",
+          "text": "Mounsieur Cobweb, good mounsieur, get you your\n[p]weapons in your hand, and kill me a red-hipped\n[p]humble-bee on the top of a thistle; and, good\n[p]mounsieur, bring me the honey-bag. Do not fret\n[p]yourself too much in the action, mounsieur; and,\n[p]good mounsieur, have a care the honey-bag break not;\n[p]I would be loath to have you overflown with a\n[p]honey-bag, signior. Where\u0027s Mounsieur Mustardseed?\n",
+          "paragraphNum": 1554
+        },
+        {
+          "charID": "Mustardseed",
+          "text": "Ready.\n",
+          "paragraphNum": 1562
+        },
+        {
+          "charID": "Bottom",
+          "text": "Give me your neaf, Mounsieur Mustardseed. Pray you,\n[p]leave your courtesy, good mounsieur.\n",
+          "paragraphNum": 1563
+        },
+        {
+          "charID": "Mustardseed",
+          "text": "What\u0027s your Will?\n",
+          "paragraphNum": 1565
+        },
+        {
+          "charID": "Bottom",
+          "text": "Nothing, good mounsieur, but to help Cavalery Cobweb\n[p]to scratch. I must to the barber\u0027s, monsieur; for\n[p]methinks I am marvellous hairy about the face; and I\n[p]am such a tender ass, if my hair do but tickle me,\n[p]I must scratch.\n",
+          "paragraphNum": 1566
+        },
+        {
+          "charID": "Titania",
+          "text": "What, wilt thou hear some music,\n[p]my sweet love?\n",
+          "paragraphNum": 1571
+        },
+        {
+          "charID": "Bottom",
+          "text": "I have a reasonable good ear in music. Let\u0027s have\n[p]the tongs and the bones.\n",
+          "paragraphNum": 1573
+        },
+        {
+          "charID": "Titania",
+          "text": "Or say, sweet love, what thou desirest to eat.\n",
+          "paragraphNum": 1575
+        },
+        {
+          "charID": "Bottom",
+          "text": "Truly, a peck of provender: I could munch your good\n[p]dry oats. Methinks I have a great desire to a bottle\n[p]of hay: good hay, sweet hay, hath no fellow.\n",
+          "paragraphNum": 1576
+        },
+        {
+          "charID": "Titania",
+          "text": "I have a venturous fairy that shall seek\n[p]The squirrel\u0027s hoard, and fetch thee new nuts.\n",
+          "paragraphNum": 1579
+        },
+        {
+          "charID": "Bottom",
+          "text": "I had rather have a handful or two of dried peas.\n[p]But, I pray you, let none of your people stir me: I\n[p]have an exposition of sleep come upon me.\n",
+          "paragraphNum": 1581
+        },
+        {
+          "charID": "Titania",
+          "text": "Sleep thou, and I will wind thee in my arms.\n[p]Fairies, begone, and be all ways away.\n[p][Exeunt fairies]\n[p]So doth the woodbine the sweet honeysuckle\n[p]Gently entwist; the female ivy so\n[p]Enrings the barky fingers of the elm.\n[p]O, how I love thee! how I dote on thee!\n",
+          "paragraphNum": 1584
+        },
+        {
+          "charID": "xxx",
+          "text": "[They sleep]\n",
+          "paragraphNum": 1591
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter PUCK]\n",
+          "paragraphNum": 1592
+        },
+        {
+          "charID": "Oberon",
+          "text": "[Advancing] Welcome, good Robin.\n[p]See\u0027st thou this sweet sight?\n[p]Her dotage now I do begin to pity:\n[p]For, meeting her of late behind the wood,\n[p]Seeking sweet favours from this hateful fool,\n[p]I did upbraid her and fall out with her;\n[p]For she his hairy temples then had rounded\n[p]With a coronet of fresh and fragrant flowers;\n[p]And that same dew, which sometime on the buds\n[p]Was wont to swell like round and orient pearls,\n[p]Stood now within the pretty flowerets\u0027 eyes\n[p]Like tears that did their own disgrace bewail.\n[p]When I had at my pleasure taunted her\n[p]And she in mild terms begg\u0027d my patience,\n[p]I then did ask of her her changeling child;\n[p]Which straight she gave me, and her fairy sent\n[p]To bear him to my bower in fairy land.\n[p]And now I have the boy, I will undo\n[p]This hateful imperfection of her eyes:\n[p]And, gentle Puck, take this transformed scalp\n[p]From off the head of this Athenian swain;\n[p]That, he awaking when the other do,\n[p]May all to Athens back again repair\n[p]And think no more of this night\u0027s accidents\n[p]But as the fierce vexation of a dream.\n[p]But first I will release the fairy queen.\n[p]Be as thou wast wont to be;\n[p]See as thou wast wont to see:\n[p]Dian\u0027s bud o\u0027er Cupid\u0027s flower\n[p]Hath such force and blessed power.\n[p]Now, my Titania; wake you, my sweet queen.\n",
+          "paragraphNum": 1593
+        },
+        {
+          "charID": "Titania",
+          "text": "My Oberon! what visions have I seen!\n[p]Methought I was enamour\u0027d of an ass.\n",
+          "paragraphNum": 1624
+        },
+        {
+          "charID": "Oberon",
+          "text": "There lies your love.\n",
+          "paragraphNum": 1626
+        },
+        {
+          "charID": "Titania",
+          "text": "How came these things to pass?\n[p]O, how mine eyes do loathe his visage now!\n",
+          "paragraphNum": 1627
+        },
+        {
+          "charID": "Oberon",
+          "text": "Silence awhile. Robin, take off this head.\n[p]Titania, music call; and strike more dead\n[p]Than common sleep of all these five the sense.\n",
+          "paragraphNum": 1629
+        },
+        {
+          "charID": "Titania",
+          "text": "Music, ho! music, such as charmeth sleep!\n",
+          "paragraphNum": 1632
+        },
+        {
+          "charID": "xxx",
+          "text": "[Music, still]\n",
+          "paragraphNum": 1633
+        },
+        {
+          "charID": "Puck",
+          "text": "Now, when thou wakest, with thine\n[p]own fool\u0027s eyes peep.\n",
+          "paragraphNum": 1634
+        },
+        {
+          "charID": "Oberon",
+          "text": "Sound, music! Come, my queen, take hands with me,\n[p]And rock the ground whereon these sleepers be.\n[p]Now thou and I are new in amity,\n[p]And will to-morrow midnight solemnly\n[p]Dance in Duke Theseus\u0027 house triumphantly,\n[p]And bless it to all fair prosperity:\n[p]There shall the pairs of faithful lovers be\n[p]Wedded, with Theseus, all in jollity.\n",
+          "paragraphNum": 1636
+        },
+        {
+          "charID": "Puck",
+          "text": "Fairy king, attend, and mark:\n[p]I do hear the morning lark.\n",
+          "paragraphNum": 1644
+        },
+        {
+          "charID": "Oberon",
+          "text": "Then, my queen, in silence sad,\n[p]Trip we after the night\u0027s shade:\n[p]We the globe can compass soon,\n[p]Swifter than the wandering moon.\n",
+          "paragraphNum": 1646
+        },
+        {
+          "charID": "Titania",
+          "text": "Come, my lord, and in our flight\n[p]Tell me how it came this night\n[p]That I sleeping here was found\n[p]With these mortals on the ground.\n",
+          "paragraphNum": 1650
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exeunt]\n",
+          "paragraphNum": 1654
+        },
+        {
+          "charID": "xxx",
+          "text": "[Horns winded within]\n",
+          "paragraphNum": 1655
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter THESEUS, HIPPOLYTA, EGEUS, and train]\n",
+          "paragraphNum": 1656
+        },
+        {
+          "charID": "Theseus",
+          "text": "Go, one of you, find out the forester;\n[p]For now our observation is perform\u0027d;\n[p]And since we have the vaward of the day,\n[p]My love shall hear the music of my hounds.\n[p]Uncouple in the western valley; let them go:\n[p]Dispatch, I say, and find the forester.\n[p][Exit an Attendant]\n[p]We will, fair queen, up to the mountain\u0027s top,\n[p]And mark the musical confusion\n[p]Of hounds and echo in conjunction.\n",
+          "paragraphNum": 1657
+        },
+        {
+          "charID": "Hippolyta",
+          "text": "I was with Hercules and Cadmus once,\n[p]When in a wood of Crete they bay\u0027d the bear\n[p]With hounds of Sparta: never did I hear\n[p]Such gallant chiding: for, besides the groves,\n[p]The skies, the fountains, every region near\n[p]Seem\u0027d all one mutual cry: I never heard\n[p]So musical a discord, such sweet thunder.\n",
+          "paragraphNum": 1667
+        },
+        {
+          "charID": "Theseus",
+          "text": "My hounds are bred out of the Spartan kind,\n[p]So flew\u0027d, so sanded, and their heads are hung\n[p]With ears that sweep away the morning dew;\n[p]Crook-knee\u0027d, and dew-lapp\u0027d like Thessalian bulls;\n[p]Slow in pursuit, but match\u0027d in mouth like bells,\n[p]Each under each. A cry more tuneable\n[p]Was never holla\u0027d to, nor cheer\u0027d with horn,\n[p]In Crete, in Sparta, nor in Thessaly:\n[p]Judge when you hear. But, soft! what nymphs are these?\n",
+          "paragraphNum": 1674
+        },
+        {
+          "charID": "Egeus",
+          "text": "My lord, this is my daughter here asleep;\n[p]And this, Lysander; this Demetrius is;\n[p]This Helena, old Nedar\u0027s Helena:\n[p]I wonder of their being here together.\n",
+          "paragraphNum": 1683
+        },
+        {
+          "charID": "Theseus",
+          "text": "No doubt they rose up early to observe\n[p]The rite of May, and hearing our intent,\n[p]Came here in grace our solemnity.\n[p]But speak, Egeus; is not this the day\n[p]That Hermia should give answer of her choice?\n",
+          "paragraphNum": 1687
+        },
+        {
+          "charID": "Egeus",
+          "text": "It is, my lord.\n",
+          "paragraphNum": 1692
+        },
+        {
+          "charID": "Theseus",
+          "text": "Go, bid the huntsmen wake them with their horns.\n[p][Horns and shout within. LYSANDER, DEMETRIUS,]\n[p]HELENA, and HERMIA wake and start up]\n[p]Good morrow, friends. Saint Valentine is past:\n[p]Begin these wood-birds but to couple now?\n",
+          "paragraphNum": 1693
+        },
+        {
+          "charID": "Lysander",
+          "text": "Pardon, my lord.\n",
+          "paragraphNum": 1698
+        },
+        {
+          "charID": "Theseus",
+          "text": "I pray you all, stand up.\n[p]I know you two are rival enemies:\n[p]How comes this gentle concord in the world,\n[p]That hatred is so far from jealousy,\n[p]To sleep by hate, and fear no enmity?\n",
+          "paragraphNum": 1699
+        },
+        {
+          "charID": "Lysander",
+          "text": "My lord, I shall reply amazedly,\n[p]Half sleep, half waking: but as yet, I swear,\n[p]I cannot truly say how I came here;\n[p]But, as I think,--for truly would I speak,\n[p]And now do I bethink me, so it is,--\n[p]I came with Hermia hither: our intent\n[p]Was to be gone from Athens, where we might,\n[p]Without the peril of the Athenian law.\n",
+          "paragraphNum": 1704
+        },
+        {
+          "charID": "Egeus",
+          "text": "Enough, enough, my lord; you have enough:\n[p]I beg the law, the law, upon his head.\n[p]They would have stolen away; they would, Demetrius,\n[p]Thereby to have defeated you and me,\n[p]You of your wife and me of my consent,\n[p]Of my consent that she should be your wife.\n",
+          "paragraphNum": 1712
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "My lord, fair Helen told me of their stealth,\n[p]Of this their purpose hither to this wood;\n[p]And I in fury hither follow\u0027d them,\n[p]Fair Helena in fancy following me.\n[p]But, my good lord, I wot not by what power,--\n[p]But by some power it is,--my love to Hermia,\n[p]Melted as the snow, seems to me now\n[p]As the remembrance of an idle gaud\n[p]Which in my childhood I did dote upon;\n[p]And all the faith, the virtue of my heart,\n[p]The object and the pleasure of mine eye,\n[p]Is only Helena. To her, my lord,\n[p]Was I betroth\u0027d ere I saw Hermia:\n[p]But, like in sickness, did I loathe this food;\n[p]But, as in health, come to my natural taste,\n[p]Now I do wish it, love it, long for it,\n[p]And will for evermore be true to it.\n",
+          "paragraphNum": 1718
+        },
+        {
+          "charID": "Theseus",
+          "text": "Fair lovers, you are fortunately met:\n[p]Of this discourse we more will hear anon.\n[p]Egeus, I will overbear your will;\n[p]For in the temple by and by with us\n[p]These couples shall eternally be knit:\n[p]And, for the morning now is something worn,\n[p]Our purposed hunting shall be set aside.\n[p]Away with us to Athens; three and three,\n[p]We\u0027ll hold a feast in great solemnity.\n[p]Come, Hippolyta.\n",
+          "paragraphNum": 1735
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exeunt THESEUS, HIPPOLYTA, EGEUS, and train]\n",
+          "paragraphNum": 1745
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "These things seem small and undistinguishable,\n",
+          "paragraphNum": 1746
+        },
+        {
+          "charID": "Hermia",
+          "text": "Methinks I see these things with parted eye,\n[p]When every thing seems double.\n",
+          "paragraphNum": 1747
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "So methinks:\n[p]And I have found Demetrius like a jewel,\n[p]Mine own, and not mine own.\n",
+          "paragraphNum": 1749
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "Are you sure\n[p]That we are awake? It seems to me\n[p]That yet we sleep, we dream. Do not you think\n[p]The duke was here, and bid us follow him?\n",
+          "paragraphNum": 1752
+        },
+        {
+          "charID": "Hermia",
+          "text": "Yea; and my father.\n",
+          "paragraphNum": 1756
+        },
+        {
+          "charID": "Helena-mnd",
+          "text": "And Hippolyta.\n",
+          "paragraphNum": 1757
+        },
+        {
+          "charID": "Lysander",
+          "text": "And he did bid us follow to the temple.\n",
+          "paragraphNum": 1758
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "Why, then, we are awake: let\u0027s follow him\n[p]And by the way let us recount our dreams.\n",
+          "paragraphNum": 1759
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exeunt]\n",
+          "paragraphNum": 1761
+        },
+        {
+          "charID": "Bottom",
+          "text": "[Awaking] When my cue comes, call me, and I will\n[p]answer: my next is, \u0027Most fair Pyramus.\u0027 Heigh-ho!\n[p]Peter Quince! Flute, the bellows-mender! Snout,\n[p]the tinker! Starveling! God\u0027s my life, stolen\n[p]hence, and left me asleep! I have had a most rare\n[p]vision. I have had a dream, past the wit of man to\n[p]say what dream it was: man is but an ass, if he go\n[p]about to expound this dream. Methought I was--there\n[p]is no man can tell what. Methought I was,--and\n[p]methought I had,--but man is but a patched fool, if\n[p]he will offer to say what methought I had. The eye\n[p]of man hath not heard, the ear of man hath not\n[p]seen, man\u0027s hand is not able to taste, his tongue\n[p]to conceive, nor his heart to report, what my dream\n[p]was. I will get Peter Quince to write a ballad of\n[p]this dream: it shall be called Bottom\u0027s Dream,\n[p]because it hath no bottom; and I will sing it in the\n[p]latter end of a play, before the duke:\n[p]peradventure, to make it the more gracious, I shall\n[p]sing it at her death.\n",
+          "paragraphNum": 1762
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 1782
+        }
+      ]
+    },
+    "Scene2": {
+      "location": "Athens. QUINCE\u0026#8217;S house.",
+      "paragraphs": [
+        {
+          "charID": "xxx",
+          "text": "[Enter QUINCE, FLUTE, SNOUT, and STARVELING]\n",
+          "paragraphNum": 1783
+        },
+        {
+          "charID": "Quince",
+          "text": "Have you sent to Bottom\u0027s house? is he come home yet?\n",
+          "paragraphNum": 1784
+        },
+        {
+          "charID": "Starveling",
+          "text": "He cannot be heard of. Out of doubt he is\n[p]transported.\n",
+          "paragraphNum": 1785
+        },
+        {
+          "charID": "Flute",
+          "text": "If he come not, then the play is marred: it goes\n[p]not forward, doth it?\n",
+          "paragraphNum": 1787
+        },
+        {
+          "charID": "Quince",
+          "text": "It is not possible: you have not a man in all\n[p]Athens able to discharge Pyramus but he.\n",
+          "paragraphNum": 1789
+        },
+        {
+          "charID": "Flute",
+          "text": "No, he hath simply the best wit of any handicraft\n[p]man in Athens.\n",
+          "paragraphNum": 1791
+        },
+        {
+          "charID": "Quince",
+          "text": "Yea and the best person too; and he is a very\n[p]paramour for a sweet voice.\n",
+          "paragraphNum": 1793
+        },
+        {
+          "charID": "Flute",
+          "text": "You must say \u0027paragon:\u0027 a paramour is, God bless us,\n[p]a thing of naught.\n",
+          "paragraphNum": 1795
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter SNUG]\n",
+          "paragraphNum": 1797
+        },
+        {
+          "charID": "Snug",
+          "text": "Masters, the duke is coming from the temple, and\n[p]there is two or three lords and ladies more married:\n[p]if our sport had gone forward, we had all been made\n[p]men.\n",
+          "paragraphNum": 1798
+        },
+        {
+          "charID": "Flute",
+          "text": "O sweet bully Bottom! Thus hath he lost sixpence a\n[p]day during his life; he could not have \u0027scaped\n[p]sixpence a day: an the duke had not given him\n[p]sixpence a day for playing Pyramus, I\u0027ll be hanged;\n[p]he would have deserved it: sixpence a day in\n[p]Pyramus, or nothing.\n",
+          "paragraphNum": 1802
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter BOTTOM]\n",
+          "paragraphNum": 1808
+        },
+        {
+          "charID": "Bottom",
+          "text": "Where are these lads? where are these hearts?\n",
+          "paragraphNum": 1809
+        },
+        {
+          "charID": "Quince",
+          "text": "Bottom! O most courageous day! O most happy hour!\n",
+          "paragraphNum": 1810
+        },
+        {
+          "charID": "Bottom",
+          "text": "Masters, I am to discourse wonders: but ask me not\n[p]what; for if I tell you, I am no true Athenian. I\n[p]will tell you every thing, right as it fell out.\n",
+          "paragraphNum": 1811
+        },
+        {
+          "charID": "Quince",
+          "text": "Let us hear, sweet Bottom.\n",
+          "paragraphNum": 1814
+        },
+        {
+          "charID": "Bottom",
+          "text": "Not a word of me. All that I will tell you is, that\n[p]the duke hath dined. Get your apparel together,\n[p]good strings to your beards, new ribbons to your\n[p]pumps; meet presently at the palace; every man look\n[p]o\u0027er his part; for the short and the long is, our\n[p]play is preferred. In any case, let Thisby have\n[p]clean linen; and let not him that plays the lion\n[p]pair his nails, for they shall hang out for the\n[p]lion\u0027s claws. And, most dear actors, eat no onions\n[p]nor garlic, for we are to utter sweet breath; and I\n[p]do not doubt but to hear them say, it is a sweet\n[p]comedy. No more words: away! go, away!\n",
+          "paragraphNum": 1815
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exeunt]\n",
+          "paragraphNum": 1827
+        }
+      ]
+    }
+  },
+  "Act5": {
+    "Scene1": {
+      "location": "Athens. The palace of THESEUS.",
+      "paragraphs": [
+        {
+          "charID": "Hippolyta",
+          "text": "\u0027Tis strange my Theseus, that these\n[p]lovers speak of.\n",
+          "paragraphNum": 1830
+        },
+        {
+          "charID": "Theseus",
+          "text": "More strange than true: I never may believe\n[p]These antique fables, nor these fairy toys.\n[p]Lovers and madmen have such seething brains,\n[p]Such shaping fantasies, that apprehend\n[p]More than cool reason ever comprehends.\n[p]The lunatic, the lover and the poet\n[p]Are of imagination all compact:\n[p]One sees more devils than vast hell can hold,\n[p]That is, the madman: the lover, all as frantic,\n[p]Sees Helen\u0027s beauty in a brow of Egypt:\n[p]The poet\u0027s eye, in fine frenzy rolling,\n[p]Doth glance from heaven to earth, from earth to heaven;\n[p]And as imagination bodies forth\n[p]The forms of things unknown, the poet\u0027s pen\n[p]Turns them to shapes and gives to airy nothing\n[p]A local habitation and a name.\n[p]Such tricks hath strong imagination,\n[p]That if it would but apprehend some joy,\n[p]It comprehends some bringer of that joy;\n[p]Or in the night, imagining some fear,\n[p]How easy is a bush supposed a bear!\n",
+          "paragraphNum": 1832
+        },
+        {
+          "charID": "Hippolyta",
+          "text": "But all the story of the night told over,\n[p]And all their minds transfigured so together,\n[p]More witnesseth than fancy\u0027s images\n[p]And grows to something of great constancy;\n[p]But, howsoever, strange and admirable.\n",
+          "paragraphNum": 1853
+        },
+        {
+          "charID": "Theseus",
+          "text": "Here come the lovers, full of joy and mirth.\n[p][Enter LYSANDER, DEMETRIUS, HERMIA, and HELENA]\n[p]Joy, gentle friends! joy and fresh days of love\n[p]Accompany your hearts!\n",
+          "paragraphNum": 1858
+        },
+        {
+          "charID": "Lysander",
+          "text": "More than to us\n[p]Wait in your royal walks, your board, your bed!\n",
+          "paragraphNum": 1862
+        },
+        {
+          "charID": "Theseus",
+          "text": "Come now; what masques, what dances shall we have,\n[p]To wear away this long age of three hours\n[p]Between our after-supper and bed-time?\n[p]Where is our usual manager of mirth?\n[p]What revels are in hand? Is there no play,\n[p]To ease the anguish of a torturing hour?\n[p]Call Philostrate.\n",
+          "paragraphNum": 1864
+        },
+        {
+          "charID": "Philostrate",
+          "text": "Here, mighty Theseus.\n",
+          "paragraphNum": 1871
+        },
+        {
+          "charID": "Theseus",
+          "text": "Say, what abridgement have you for this evening?\n[p]What masque? what music? How shall we beguile\n[p]The lazy time, if not with some delight?\n",
+          "paragraphNum": 1872
+        },
+        {
+          "charID": "Philostrate",
+          "text": "There is a brief how many sports are ripe:\n[p]Make choice of which your highness will see first.\n",
+          "paragraphNum": 1875
+        },
+        {
+          "charID": "xxx",
+          "text": "[Giving a paper]\n",
+          "paragraphNum": 1877
+        },
+        {
+          "charID": "Theseus",
+          "text": "[Reads] \u0027The battle with the Centaurs, to be sung\n[p]By an Athenian eunuch to the harp.\u0027\n[p]We\u0027ll none of that: that have I told my love,\n[p]In glory of my kinsman Hercules.\n[p][Reads]\n[p]\u0027The riot of the tipsy Bacchanals,\n[p]Tearing the Thracian singer in their rage.\u0027\n[p]That is an old device; and it was play\u0027d\n[p]When I from Thebes came last a conqueror.\n[p][Reads]\n[p]\u0027The thrice three Muses mourning for the death\n[p]Of Learning, late deceased in beggary.\u0027\n[p]That is some satire, keen and critical,\n[p]Not sorting with a nuptial ceremony.\n[p][Reads]\n[p]\u0027A tedious brief scene of young Pyramus\n[p]And his love Thisbe; very tragical mirth.\u0027\n[p]Merry and tragical! tedious and brief!\n[p]That is, hot ice and wondrous strange snow.\n[p]How shall we find the concord of this discord?\n",
+          "paragraphNum": 1878
+        },
+        {
+          "charID": "Philostrate",
+          "text": "A play there is, my lord, some ten words long,\n[p]Which is as brief as I have known a play;\n[p]But by ten words, my lord, it is too long,\n[p]Which makes it tedious; for in all the play\n[p]There is not one word apt, one player fitted:\n[p]And tragical, my noble lord, it is;\n[p]For Pyramus therein doth kill himself.\n[p]Which, when I saw rehearsed, I must confess,\n[p]Made mine eyes water; but more merry tears\n[p]The passion of loud laughter never shed.\n",
+          "paragraphNum": 1898
+        },
+        {
+          "charID": "Theseus",
+          "text": "What are they that do play it?\n",
+          "paragraphNum": 1908
+        },
+        {
+          "charID": "Philostrate",
+          "text": "Hard-handed men that work in Athens here,\n[p]Which never labour\u0027d in their minds till now,\n[p]And now have toil\u0027d their unbreathed memories\n[p]With this same play, against your nuptial.\n",
+          "paragraphNum": 1909
+        },
+        {
+          "charID": "Theseus",
+          "text": "And we will hear it.\n",
+          "paragraphNum": 1913
+        },
+        {
+          "charID": "Philostrate",
+          "text": "No, my noble lord;\n[p]It is not for you: I have heard it over,\n[p]And it is nothing, nothing in the world;\n[p]Unless you can find sport in their intents,\n[p]Extremely stretch\u0027d and conn\u0027d with cruel pain,\n[p]To do you service.\n",
+          "paragraphNum": 1914
+        },
+        {
+          "charID": "Theseus",
+          "text": "I will hear that play;\n[p]For never anything can be amiss,\n[p]When simpleness and duty tender it.\n[p]Go, bring them in: and take your places, ladies.\n",
+          "paragraphNum": 1920
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit PHILOSTRATE]\n",
+          "paragraphNum": 1924
+        },
+        {
+          "charID": "Hippolyta",
+          "text": "I love not to see wretchedness o\u0027er charged\n[p]And duty in his service perishing.\n",
+          "paragraphNum": 1925
+        },
+        {
+          "charID": "Theseus",
+          "text": "Why, gentle sweet, you shall see no such thing.\n",
+          "paragraphNum": 1927
+        },
+        {
+          "charID": "Hippolyta",
+          "text": "He says they can do nothing in this kind.\n",
+          "paragraphNum": 1928
+        },
+        {
+          "charID": "Theseus",
+          "text": "The kinder we, to give them thanks for nothing.\n[p]Our sport shall be to take what they mistake:\n[p]And what poor duty cannot do, noble respect\n[p]Takes it in might, not merit.\n[p]Where I have come, great clerks have purposed\n[p]To greet me with premeditated welcomes;\n[p]Where I have seen them shiver and look pale,\n[p]Make periods in the midst of sentences,\n[p]Throttle their practised accent in their fears\n[p]And in conclusion dumbly have broke off,\n[p]Not paying me a welcome. Trust me, sweet,\n[p]Out of this silence yet I pick\u0027d a welcome;\n[p]And in the modesty of fearful duty\n[p]I read as much as from the rattling tongue\n[p]Of saucy and audacious eloquence.\n[p]Love, therefore, and tongue-tied simplicity\n[p]In least speak most, to my capacity.\n",
+          "paragraphNum": 1929
+        },
+        {
+          "charID": "xxx",
+          "text": "[Re-enter PHILOSTRATE]\n",
+          "paragraphNum": 1946
+        },
+        {
+          "charID": "Philostrate",
+          "text": "So please your grace, the Prologue is address\u0027d.\n",
+          "paragraphNum": 1947
+        },
+        {
+          "charID": "Theseus",
+          "text": "Let him approach.\n",
+          "paragraphNum": 1948
+        },
+        {
+          "charID": "xxx",
+          "text": "[Flourish of trumpets]\n",
+          "paragraphNum": 1949
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter QUINCE for the Prologue]\n",
+          "paragraphNum": 1950
+        },
+        {
+          "charID": "Quince",
+          "text": "If we offend, it is with our good will.\n[p]That you should think, we come not to offend,\n[p]But with good will. To show our simple skill,\n[p]That is the true beginning of our end.\n[p]Consider then we come but in despite.\n[p]We do not come as minding to contest you,\n[p]Our true intent is. All for your delight\n[p]We are not here. That you should here repent you,\n[p]The actors are at hand and by their show\n[p]You shall know all that you are like to know.\n",
+          "paragraphNum": 1951
+        },
+        {
+          "charID": "Theseus",
+          "text": "This fellow doth not stand upon points.\n",
+          "paragraphNum": 1961
+        },
+        {
+          "charID": "Lysander",
+          "text": "He hath rid his prologue like a rough colt; he knows\n[p]not the stop. A good moral, my lord: it is not\n[p]enough to speak, but to speak true.\n",
+          "paragraphNum": 1962
+        },
+        {
+          "charID": "Hippolyta",
+          "text": "Indeed he hath played on his prologue like a child\n[p]on a recorder; a sound, but not in government.\n",
+          "paragraphNum": 1965
+        },
+        {
+          "charID": "Theseus",
+          "text": "His speech, was like a tangled chain; nothing\n[p]impaired, but all disordered. Who is next?\n",
+          "paragraphNum": 1967
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter Pyramus and Thisbe, Wall, Moonshine, and Lion]\n",
+          "paragraphNum": 1969
+        },
+        {
+          "charID": "Quince",
+          "text": "Gentles, perchance you wonder at this show;\n[p]But wonder on, till truth make all things plain.\n[p]This man is Pyramus, if you would know;\n[p]This beauteous lady Thisby is certain.\n[p]This man, with lime and rough-cast, doth present\n[p]Wall, that vile Wall which did these lovers sunder;\n[p]And through Wall\u0027s chink, poor souls, they are content\n[p]To whisper. At the which let no man wonder.\n[p]This man, with lanthorn, dog, and bush of thorn,\n[p]Presenteth Moonshine; for, if you will know,\n[p]By moonshine did these lovers think no scorn\n[p]To meet at Ninus\u0027 tomb, there, there to woo.\n[p]This grisly beast, which Lion hight by name,\n[p]The trusty Thisby, coming first by night,\n[p]Did scare away, or rather did affright;\n[p]And, as she fled, her mantle she did fall,\n[p]Which Lion vile with bloody mouth did stain.\n[p]Anon comes Pyramus, sweet youth and tall,\n[p]And finds his trusty Thisby\u0027s mantle slain:\n[p]Whereat, with blade, with bloody blameful blade,\n[p]He bravely broach\u0027d is boiling bloody breast;\n[p]And Thisby, tarrying in mulberry shade,\n[p]His dagger drew, and died. For all the rest,\n[p]Let Lion, Moonshine, Wall, and lovers twain\n[p]At large discourse, while here they do remain.\n",
+          "paragraphNum": 1970
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exeunt Prologue, Thisbe, Lion, and Moonshine]\n",
+          "paragraphNum": 1995
+        },
+        {
+          "charID": "Theseus",
+          "text": "I wonder if the lion be to speak.\n",
+          "paragraphNum": 1996
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "No wonder, my lord: one lion may, when many asses do.\n",
+          "paragraphNum": 1997
+        },
+        {
+          "charID": "Snout",
+          "text": "In this same interlude it doth befall\n[p]That I, one Snout by name, present a wall;\n[p]And such a wall, as I would have you think,\n[p]That had in it a crannied hole or chink,\n[p]Through which the lovers, Pyramus and Thisby,\n[p]Did whisper often very secretly.\n[p]This loam, this rough-cast and this stone doth show\n[p]That I am that same wall; the truth is so:\n[p]And this the cranny is, right and sinister,\n[p]Through which the fearful lovers are to whisper.\n",
+          "paragraphNum": 1998
+        },
+        {
+          "charID": "Theseus",
+          "text": "Would you desire lime and hair to speak better?\n",
+          "paragraphNum": 2008
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "It is the wittiest partition that ever I heard\n[p]discourse, my lord.\n",
+          "paragraphNum": 2009
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter Pyramus]\n",
+          "paragraphNum": 2011
+        },
+        {
+          "charID": "Theseus",
+          "text": "Pyramus draws near the wall: silence!\n",
+          "paragraphNum": 2012
+        },
+        {
+          "charID": "Bottom",
+          "text": "O grim-look\u0027d night! O night with hue so black!\n[p]O night, which ever art when day is not!\n[p]O night, O night! alack, alack, alack,\n[p]I fear my Thisby\u0027s promise is forgot!\n[p]And thou, O wall, O sweet, O lovely wall,\n[p]That stand\u0027st between her father\u0027s ground and mine!\n[p]Thou wall, O wall, O sweet and lovely wall,\n[p]Show me thy chink, to blink through with mine eyne!\n[p][Wall holds up his fingers]\n[p]Thanks, courteous wall: Jove shield thee well for this!\n[p]But what see I? No Thisby do I see.\n[p]O wicked wall, through whom I see no bliss!\n[p]Cursed be thy stones for thus deceiving me!\n",
+          "paragraphNum": 2013
+        },
+        {
+          "charID": "Theseus",
+          "text": "The wall, methinks, being sensible, should curse again.\n",
+          "paragraphNum": 2026
+        },
+        {
+          "charID": "Bottom",
+          "text": "No, in truth, sir, he should not. \u0027Deceiving me\u0027\n[p]is Thisby\u0027s cue: she is to enter now, and I am to\n[p]spy her through the wall. You shall see, it will\n[p]fall pat as I told you. Yonder she comes.\n",
+          "paragraphNum": 2027
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter Thisbe]\n",
+          "paragraphNum": 2031
+        },
+        {
+          "charID": "Flute",
+          "text": "[as Thisbe] O wall, full often hast thou heard my moans,\n[p]For parting my fair Pyramus and me!\n[p]My cherry lips have often kiss\u0027d thy stones,\n[p]Thy stones with lime and hair knit up in thee.\n",
+          "paragraphNum": 2032
+        },
+        {
+          "charID": "Bottom",
+          "text": "I see a voice: now will I to the chink,\n[p]To spy an I can hear my Thisby\u0027s face. Thisby!\n",
+          "paragraphNum": 2036
+        },
+        {
+          "charID": "Flute",
+          "text": "[as Thisbe] My love thou art, my love I think.\n",
+          "paragraphNum": 2038
+        },
+        {
+          "charID": "Bottom",
+          "text": "Think what thou wilt, I am thy lover\u0027s grace;\n[p]And, like Limander, am I trusty still.\n",
+          "paragraphNum": 2039
+        },
+        {
+          "charID": "Flute",
+          "text": "[as Thisbe] And I like Helen, till the Fates me kill.\n",
+          "paragraphNum": 2041
+        },
+        {
+          "charID": "Bottom",
+          "text": "Not Shafalus to Procrus was so true.\n",
+          "paragraphNum": 2042
+        },
+        {
+          "charID": "Flute",
+          "text": "[as Thisbe] As Shafalus to Procrus, I to you.\n",
+          "paragraphNum": 2043
+        },
+        {
+          "charID": "Bottom",
+          "text": "O kiss me through the hole of this vile wall!\n",
+          "paragraphNum": 2044
+        },
+        {
+          "charID": "Flute",
+          "text": "[as Thisbe] I kiss the wall\u0027s hole, not your lips at all.\n",
+          "paragraphNum": 2045
+        },
+        {
+          "charID": "Bottom",
+          "text": "Wilt thou at Ninny\u0027s tomb meet me straightway?\n",
+          "paragraphNum": 2046
+        },
+        {
+          "charID": "Flute",
+          "text": "[as Thisbe] \u0027Tide life, \u0027tide death, I come without delay.\n",
+          "paragraphNum": 2047
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exeunt Pyramus and Thisbe]\n",
+          "paragraphNum": 2048
+        },
+        {
+          "charID": "Snout",
+          "text": "[as Wall] Thus have I, Wall, my part discharged so;\n[p]And, being done, thus Wall away doth go.\n",
+          "paragraphNum": 2049
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exit]\n",
+          "paragraphNum": 2051
+        },
+        {
+          "charID": "Theseus",
+          "text": "Now is the mural down between the two neighbours.\n",
+          "paragraphNum": 2052
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "No remedy, my lord, when walls are so wilful to hear\n[p]without warning.\n",
+          "paragraphNum": 2053
+        },
+        {
+          "charID": "Hippolyta",
+          "text": "This is the silliest stuff that ever I heard.\n",
+          "paragraphNum": 2055
+        },
+        {
+          "charID": "Theseus",
+          "text": "The best in this kind are but shadows; and the worst\n[p]are no worse, if imagination amend them.\n",
+          "paragraphNum": 2056
+        },
+        {
+          "charID": "Hippolyta",
+          "text": "It must be your imagination then, and not theirs.\n",
+          "paragraphNum": 2058
+        },
+        {
+          "charID": "Theseus",
+          "text": "If we imagine no worse of them than they of\n[p]themselves, they may pass for excellent men. Here\n[p]come two noble beasts in, a man and a lion.\n",
+          "paragraphNum": 2059
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter Lion and Moonshine]\n",
+          "paragraphNum": 2062
+        },
+        {
+          "charID": "Snug",
+          "text": "[as Lion] You, ladies, you, whose gentle hearts do fear\n[p]The smallest monstrous mouse that creeps on floor,\n[p]May now perchance both quake and tremble here,\n[p]When lion rough in wildest rage doth roar.\n[p]Then know that I, one Snug the joiner, am\n[p]A lion-fell, nor else no lion\u0027s dam;\n[p]For, if I should as lion come in strife\n[p]Into this place, \u0027twere pity on my life.\n",
+          "paragraphNum": 2063
+        },
+        {
+          "charID": "Theseus",
+          "text": "A very gentle beast, of a good conscience.\n",
+          "paragraphNum": 2071
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "The very best at a beast, my lord, that e\u0027er I saw.\n",
+          "paragraphNum": 2072
+        },
+        {
+          "charID": "Lysander",
+          "text": "This lion is a very fox for his valour.\n",
+          "paragraphNum": 2073
+        },
+        {
+          "charID": "Theseus",
+          "text": "True; and a goose for his discretion.\n",
+          "paragraphNum": 2074
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "Not so, my lord; for his valour cannot carry his\n[p]discretion; and the fox carries the goose.\n",
+          "paragraphNum": 2075
+        },
+        {
+          "charID": "Theseus",
+          "text": "His discretion, I am sure, cannot carry his valour;\n[p]for the goose carries not the fox. It is well:\n[p]leave it to his discretion, and let us listen to the moon.\n",
+          "paragraphNum": 2077
+        },
+        {
+          "charID": "Starveling",
+          "text": "[as Moonshine] This lanthorn doth the horned moon present;--\n",
+          "paragraphNum": 2080
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "He should have worn the horns on his head.\n",
+          "paragraphNum": 2081
+        },
+        {
+          "charID": "Theseus",
+          "text": "He is no crescent, and his horns are\n[p]invisible within the circumference.\n",
+          "paragraphNum": 2082
+        },
+        {
+          "charID": "Starveling",
+          "text": "[as Moonshine] This lanthorn doth the horned moon present;\n[p]Myself the man i\u0027 the moon do seem to be.\n",
+          "paragraphNum": 2084
+        },
+        {
+          "charID": "Theseus",
+          "text": "This is the greatest error of all the rest: the man\n[p]should be put into the lanthorn. How is it else the\n[p]man i\u0027 the moon?\n",
+          "paragraphNum": 2086
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "He dares not come there for the candle; for, you\n[p]see, it is already in snuff.\n",
+          "paragraphNum": 2089
+        },
+        {
+          "charID": "Hippolyta",
+          "text": "I am aweary of this moon: would he would change!\n",
+          "paragraphNum": 2091
+        },
+        {
+          "charID": "Theseus",
+          "text": "It appears, by his small light of discretion, that\n[p]he is in the wane; but yet, in courtesy, in all\n[p]reason, we must stay the time.\n",
+          "paragraphNum": 2092
+        },
+        {
+          "charID": "Lysander",
+          "text": "Proceed, Moon.\n",
+          "paragraphNum": 2095
+        },
+        {
+          "charID": "Starveling",
+          "text": "[as Moonshine] All that I have to say, is, to tell you that the\n[p]lanthorn is the moon; I, the man in the moon; this\n[p]thorn-bush, my thorn-bush; and this dog, my dog.\n",
+          "paragraphNum": 2096
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "Why, all these should be in the lanthorn; for all\n[p]these are in the moon. But, silence! here comes Thisbe.\n",
+          "paragraphNum": 2099
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter Thisbe]\n",
+          "paragraphNum": 2101
+        },
+        {
+          "charID": "Flute",
+          "text": "[as Thisbe] This is old Ninny\u0027s tomb. Where is my love?\n",
+          "paragraphNum": 2102
+        },
+        {
+          "charID": "Snug",
+          "text": "[as Lion] [Roaring] Oh--\n",
+          "paragraphNum": 2103
+        },
+        {
+          "charID": "xxx",
+          "text": "[Thisbe runs off]\n",
+          "paragraphNum": 2104
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "Well roared, Lion.\n",
+          "paragraphNum": 2105
+        },
+        {
+          "charID": "Theseus",
+          "text": "Well run, Thisbe.\n",
+          "paragraphNum": 2106
+        },
+        {
+          "charID": "Hippolyta",
+          "text": "Well shone, Moon. Truly, the moon shines with a\n[p]good grace.\n",
+          "paragraphNum": 2107
+        },
+        {
+          "charID": "xxx",
+          "text": "[The Lion shakes Thisbe\u0027s mantle, and exit]\n",
+          "paragraphNum": 2109
+        },
+        {
+          "charID": "Theseus",
+          "text": "Well moused, Lion.\n",
+          "paragraphNum": 2110
+        },
+        {
+          "charID": "Lysander",
+          "text": "And so the lion vanished.\n",
+          "paragraphNum": 2111
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "And then came Pyramus.\n",
+          "paragraphNum": 2112
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter Pyramus]\n",
+          "paragraphNum": 2113
+        },
+        {
+          "charID": "Bottom",
+          "text": "Sweet Moon, I thank thee for thy sunny beams;\n[p]I thank thee, Moon, for shining now so bright;\n[p]For, by thy gracious, golden, glittering gleams,\n[p]I trust to take of truest Thisby sight.\n[p]But stay, O spite!\n[p]But mark, poor knight,\n[p]What dreadful dole is here!\n[p]Eyes, do you see?\n[p]How can it be?\n[p]O dainty duck! O dear!\n[p]Thy mantle good,\n[p]What, stain\u0027d with blood!\n[p]Approach, ye Furies fell!\n[p]O Fates, come, come,\n[p]Cut thread and thrum;\n[p]Quail, crush, conclude, and quell!\n",
+          "paragraphNum": 2114
+        },
+        {
+          "charID": "Theseus",
+          "text": "This passion, and the death of a dear friend, would\n[p]go near to make a man look sad.\n",
+          "paragraphNum": 2130
+        },
+        {
+          "charID": "Hippolyta",
+          "text": "Beshrew my heart, but I pity the man.\n",
+          "paragraphNum": 2132
+        },
+        {
+          "charID": "Bottom",
+          "text": "O wherefore, Nature, didst thou lions frame?\n[p]Since lion vile hath here deflower\u0027d my dear:\n[p]Which is--no, no--which was the fairest dame\n[p]That lived, that loved, that liked, that look\u0027d\n[p]with cheer.\n[p]Come, tears, confound;\n[p]Out, sword, and wound\n[p]The pap of Pyramus;\n[p]Ay, that left pap,\n[p]Where heart doth hop:\n[p][Stabs himself]\n[p]Thus die I, thus, thus, thus.\n[p]Now am I dead,\n[p]Now am I fled;\n[p]My soul is in the sky:\n[p]Tongue, lose thy light;\n[p]Moon take thy flight:\n[p][Exit Moonshine]\n[p]Now die, die, die, die, die.\n",
+          "paragraphNum": 2133
+        },
+        {
+          "charID": "xxx",
+          "text": "[Dies]\n",
+          "paragraphNum": 2152
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "No die, but an ace, for him; for he is but one.\n",
+          "paragraphNum": 2153
+        },
+        {
+          "charID": "Lysander",
+          "text": "Less than an ace, man; for he is dead; he is nothing.\n",
+          "paragraphNum": 2154
+        },
+        {
+          "charID": "Theseus",
+          "text": "With the help of a surgeon he might yet recover, and\n[p]prove an ass.\n",
+          "paragraphNum": 2155
+        },
+        {
+          "charID": "Hippolyta",
+          "text": "How chance Moonshine is gone before Thisbe comes\n[p]back and finds her lover?\n",
+          "paragraphNum": 2157
+        },
+        {
+          "charID": "Theseus",
+          "text": "She will find him by starlight. Here she comes; and\n[p]her passion ends the play.\n",
+          "paragraphNum": 2159
+        },
+        {
+          "charID": "xxx",
+          "text": "[Re-enter Thisbe]\n",
+          "paragraphNum": 2161
+        },
+        {
+          "charID": "Hippolyta",
+          "text": "Methinks she should not use a long one for such a\n[p]Pyramus: I hope she will be brief.\n",
+          "paragraphNum": 2162
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "A mote will turn the balance, which Pyramus, which\n[p]Thisbe, is the better; he for a man, God warrant us;\n[p]she for a woman, God bless us.\n",
+          "paragraphNum": 2164
+        },
+        {
+          "charID": "Lysander",
+          "text": "She hath spied him already with those sweet eyes.\n",
+          "paragraphNum": 2167
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "And thus she means, videlicet:--\n",
+          "paragraphNum": 2168
+        },
+        {
+          "charID": "Flute",
+          "text": "[as Thisbe] Asleep, my love?\n[p]What, dead, my dove?\n[p]O Pyramus, arise!\n[p]Speak, speak. Quite dumb?\n[p]Dead, dead? A tomb\n[p]Must cover thy sweet eyes.\n[p]These My lips,\n[p]This cherry nose,\n[p]These yellow cowslip cheeks,\n[p]Are gone, are gone:\n[p]Lovers, make moan:\n[p]His eyes were green as leeks.\n[p]O Sisters Three,\n[p]Come, come to me,\n[p]With hands as pale as milk;\n[p]Lay them in gore,\n[p]Since you have shore\n[p]With shears his thread of silk.\n[p]Tongue, not a word:\n[p]Come, trusty sword;\n[p]Come, blade, my breast imbrue:\n[p][Stabs herself]\n[p]And, farewell, friends;\n[p]Thus Thisby ends:\n[p]Adieu, adieu, adieu.\n",
+          "paragraphNum": 2169
+        },
+        {
+          "charID": "xxx",
+          "text": "[Dies]\n",
+          "paragraphNum": 2194
+        },
+        {
+          "charID": "Theseus",
+          "text": "Moonshine and Lion are left to bury the dead.\n",
+          "paragraphNum": 2195
+        },
+        {
+          "charID": "Demetrius-mnd",
+          "text": "Ay, and Wall too.\n",
+          "paragraphNum": 2196
+        },
+        {
+          "charID": "Bottom",
+          "text": "[Starting up] No assure you; the wall is down that\n[p]parted their fathers. Will it please you to see the\n[p]epilogue, or to hear a Bergomask dance between two\n[p]of our company?\n",
+          "paragraphNum": 2197
+        },
+        {
+          "charID": "Theseus",
+          "text": "No epilogue, I pray you; for your play needs no\n[p]excuse. Never excuse; for when the players are all\n[p]dead, there needs none to be blamed. Marry, if he\n[p]that writ it had played Pyramus and hanged himself\n[p]in Thisbe\u0027s garter, it would have been a fine\n[p]tragedy: and so it is, truly; and very notably\n[p]discharged. But come, your Bergomask: let your\n[p]epilogue alone.\n[p][A dance]\n[p]The iron tongue of midnight hath told twelve:\n[p]Lovers, to bed; \u0027tis almost fairy time.\n[p]I fear we shall out-sleep the coming morn\n[p]As much as we this night have overwatch\u0027d.\n[p]This palpable-gross play hath well beguiled\n[p]The heavy gait of night. Sweet friends, to bed.\n[p]A fortnight hold we this solemnity,\n[p]In nightly revels and new jollity.\n",
+          "paragraphNum": 2201
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exeunt]\n",
+          "paragraphNum": 2218
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter PUCK]\n",
+          "paragraphNum": 2219
+        },
+        {
+          "charID": "Puck",
+          "text": "Now the hungry lion roars,\n[p]And the wolf behowls the moon;\n[p]Whilst the heavy ploughman snores,\n[p]All with weary task fordone.\n[p]Now the wasted brands do glow,\n[p]Whilst the screech-owl, screeching loud,\n[p]Puts the wretch that lies in woe\n[p]In remembrance of a shroud.\n[p]Now it is the time of night\n[p]That the graves all gaping wide,\n[p]Every one lets forth his sprite,\n[p]In the church-way paths to glide:\n[p]And we fairies, that do run\n[p]By the triple Hecate\u0027s team,\n[p]From the presence of the sun,\n[p]Following darkness like a dream,\n[p]Now are frolic: not a mouse\n[p]Shall disturb this hallow\u0027d house:\n[p]I am sent with broom before,\n[p]To sweep the dust behind the door.\n",
+          "paragraphNum": 2220
+        },
+        {
+          "charID": "xxx",
+          "text": "[Enter OBERON and TITANIA with their train]\n",
+          "paragraphNum": 2240
+        },
+        {
+          "charID": "Oberon",
+          "text": "Through the house give gathering light,\n[p]By the dead and drowsy fire:\n[p]Every elf and fairy sprite\n[p]Hop as light as bird from brier;\n[p]And this ditty, after me,\n[p]Sing, and dance it trippingly.\n",
+          "paragraphNum": 2241
+        },
+        {
+          "charID": "Titania",
+          "text": "First, rehearse your song by rote\n[p]To each word a warbling note:\n[p]Hand in hand, with fairy grace,\n[p]Will we sing, and bless this place.\n",
+          "paragraphNum": 2247
+        },
+        {
+          "charID": "xxx",
+          "text": "[Song and dance]\n",
+          "paragraphNum": 2251
+        },
+        {
+          "charID": "Oberon",
+          "text": "Now, until the break of day,\n[p]Through this house each fairy stray.\n[p]To the best bride-bed will we,\n[p]Which by us shall blessed be;\n[p]And the issue there create\n[p]Ever shall be fortunate.\n[p]So shall all the couples three\n[p]Ever true in loving be;\n[p]And the blots of Nature\u0027s hand\n[p]Shall not in their issue stand;\n[p]Never mole, hare lip, nor scar,\n[p]Nor mark prodigious, such as are\n[p]Despised in nativity,\n[p]Shall upon their children be.\n[p]With this field-dew consecrate,\n[p]Every fairy take his gait;\n[p]And each several chamber bless,\n[p]Through this palace, with sweet peace;\n[p]And the owner of it blest\n[p]Ever shall in safety rest.\n[p]Trip away; make no stay;\n[p]Meet me all by break of day.\n",
+          "paragraphNum": 2252
+        },
+        {
+          "charID": "xxx",
+          "text": "[Exeunt OBERON, TITANIA, and train]\n",
+          "paragraphNum": 2274
+        },
+        {
+          "charID": "Puck",
+          "text": "If we shadows have offended,\n[p]Think but this, and all is mended,\n[p]That you have but slumber\u0027d here\n[p]While these visions did appear.\n[p]And this weak and idle theme,\n[p]No more yielding but a dream,\n[p]Gentles, do not reprehend:\n[p]if you pardon, we will mend:\n[p]And, as I am an honest Puck,\n[p]If we have unearned luck\n[p]Now to \u0027scape the serpent\u0027s tongue,\n[p]We will make amends ere long;\n[p]Else the Puck a liar call;\n[p]So, good night unto you all.\n[p]Give me your hands, if we be friends,\n[p]And Robin shall restore amends.",
+          "paragraphNum": 2275
+        }
+      ]
+    }
+  }
+}
